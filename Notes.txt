@@ -9,14 +9,23 @@ AI-GoogleSheets-Assistant/
 │   ├── config.py            # API keys, Google Sheets settings, OpenAI settings
 │
 ├── core/                    # Core functionality (AI + Sheets integration)
-│   ├── google_sheets.py     # Handles Google Sheets reading/writing
+│   ├── google_sheets.py      # Manage Google Sheets connection
+│   ├── validator.py          # Validate sheet data
+│   ├── processor.py          # Modify and process data
 │   ├── openai_api.py        # Connects to OpenAI API & processes responses
-│   ├── processor.py         # Processes user inputs & AI logic
+│
+│
+├── extension/               # This is the folder deployed on google extension.
+│   ├── background.js        # Standard file for google extensions
+│   ├── content.js           # main content of the chatbot icon and chat bot screen
+│   ├── icon.png             # chatbot icon logo
+│   ├── manidest.json        # Standard file for google extensions
+│   ├── popup.html           # Standard file for google extensions, empty for now.
+│   ├── popup.js             # Standard file for google extensions, empty for now.
 │
 ├── ui/                      # User interface-related files
 │   ├── chatbot.py           # Chatbot logic (text-based or GUI)
-│   ├── chatbot_ui.py        # If we use a GUI (Tkinter/PyQt)
-│
+│   
 ├── utils/                   # Utility & helper functions
 │   ├── helpers.py           # Common helper functions (e.g., validation, formatting)
 │   ├── logger.py            # Logs errors & activity
