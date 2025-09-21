@@ -1,0 +1,317 @@
+{
+  "validation_timeline": [
+    {
+      "email_id": "EMAIL00023",
+      "date": "2025-02-20T09:00:00.000000",
+      "issues_remaining": 27,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    },
+    {
+      "email_id": "EMAIL00025",
+      "date": "2025-02-24T09:00:00.000000",
+      "issues_remaining": 25,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    },
+    {
+      "email_id": "EMAIL00027",
+      "date": "2025-02-28T09:00:00.000000",
+      "issues_remaining": 23,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    },
+    {
+      "email_id": "EMAIL00029",
+      "date": "2025-03-04T09:00:00.000000",
+      "issues_remaining": 21,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    },
+    {
+      "email_id": "EMAIL00031",
+      "date": "2025-03-08T09:00:00.000000",
+      "issues_remaining": 19,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    },
+    {
+      "email_id": "EMAIL00033",
+      "date": "2025-03-12T09:00:00.000000",
+      "issues_remaining": 17,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    },
+    {
+      "email_id": "EMAIL00035",
+      "date": "2025-03-16T09:00:00.000000",
+      "issues_remaining": 15,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    },
+    {
+      "email_id": "EMAIL00036",
+      "date": "2025-03-27T09:00:00.000000",
+      "progress_percent": 91,
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 91% Success Rate"
+    },
+    {
+      "email_id": "EMAIL00037",
+      "date": "2025-03-28T09:00:00.000000",
+      "progress_percent": 92,
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 92% Success Rate"
+    },
+    {
+      "email_id": "EMAIL00038",
+      "date": "2025-03-29T09:00:00.000000",
+      "progress_percent": 93,
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 93% Success Rate"
+    },
+    {
+      "email_id": "EMAIL00039",
+      "date": "2025-03-30T09:00:00.000000",
+      "progress_percent": 94,
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 94% Success Rate"
+    },
+    {
+      "email_id": "EMAIL00040",
+      "date": "2025-03-31T09:00:00.000000",
+      "progress_percent": 95,
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 95% Success Rate"
+    }
+  ],
+  "file_versions": [
+    {
+      "email_id": "EMAIL00022",
+      "date": "2025-02-18T09:00:00.000000",
+      "version": 4,
+      "file_path": "/ProductMaster/Nikwax_Upload_v4.xlsx",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 4"
+    },
+    {
+      "email_id": "EMAIL00024",
+      "date": "2025-02-22T09:00:00.000000",
+      "version": 4,
+      "file_path": "/ProductMaster/Nikwax_Upload_v4.xlsx",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 4"
+    },
+    {
+      "email_id": "EMAIL00026",
+      "date": "2025-02-26T09:00:00.000000",
+      "version": 5,
+      "file_path": "/ProductMaster/Nikwax_Upload_v5.xlsx",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 5"
+    },
+    {
+      "email_id": "EMAIL00028",
+      "date": "2025-03-02T09:00:00.000000",
+      "version": 5,
+      "file_path": "/ProductMaster/Nikwax_Upload_v5.xlsx",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 5"
+    },
+    {
+      "email_id": "EMAIL00030",
+      "date": "2025-03-06T09:00:00.000000",
+      "version": 6,
+      "file_path": "/ProductMaster/Nikwax_Upload_v6.xlsx",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 6"
+    },
+    {
+      "email_id": "EMAIL00032",
+      "date": "2025-03-10T09:00:00.000000",
+      "version": 6,
+      "file_path": "/ProductMaster/Nikwax_Upload_v6.xlsx",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 6"
+    },
+    {
+      "email_id": "EMAIL00034",
+      "date": "2025-03-14T09:00:00.000000",
+      "version": 6,
+      "file_path": "/ProductMaster/Nikwax_Upload_v6.xlsx",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 6"
+    }
+  ],
+  "milestone_events": [
+    {
+      "email_id": "EMAIL00018",
+      "date": "2025-02-12T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "First Submission - Product Master Data (80% Complete)",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00019",
+      "date": "2025-02-13T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Upload Validation Results - Multiple Data Issues Identified",
+      "sender": "Harry Singh",
+      "priority": "high"
+    },
+    {
+      "email_id": "EMAIL00022",
+      "date": "2025-02-18T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "Updated File Submission - Version 4",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00020",
+      "date": "2025-02-19T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Second Validation Results - Supplier Data Mismatch Issues",
+      "sender": "Harry Singh",
+      "priority": "high"
+    },
+    {
+      "email_id": "EMAIL00023",
+      "date": "2025-02-20T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Validation Results - Issues Remaining",
+      "sender": "Harry Singh",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00021",
+      "date": "2025-02-22T09:00:00.000000",
+      "event_type": "project_halt",
+      "description": "Data Migration Halt Request - Additional Time Required",
+      "sender": "Michael Johnson",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00024",
+      "date": "2025-02-22T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "Updated File Submission - Version 4",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00025",
+      "date": "2025-02-24T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Validation Results - Issues Remaining",
+      "sender": "Harry Singh",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00026",
+      "date": "2025-02-26T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "Updated File Submission - Version 5",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00027",
+      "date": "2025-02-28T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Validation Results - Issues Remaining",
+      "sender": "Harry Singh",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00028",
+      "date": "2025-03-02T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "Updated File Submission - Version 5",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00029",
+      "date": "2025-03-04T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Validation Results - Issues Remaining",
+      "sender": "Harry Singh",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00030",
+      "date": "2025-03-06T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "Updated File Submission - Version 6",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00031",
+      "date": "2025-03-08T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Validation Results - Issues Remaining",
+      "sender": "Harry Singh",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00032",
+      "date": "2025-03-10T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "Updated File Submission - Version 6",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00033",
+      "date": "2025-03-12T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Validation Results - Issues Remaining",
+      "sender": "Harry Singh",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00034",
+      "date": "2025-03-14T09:00:00.000000",
+      "event_type": "file_submission",
+      "description": "Updated File Submission - Version 6",
+      "sender": "Lisa Morgan",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00035",
+      "date": "2025-03-16T09:00:00.000000",
+      "event_type": "validation_result",
+      "description": "Validation Results - Issues Remaining",
+      "sender": "Harry Singh",
+      "priority": "low"
+    },
+    {
+      "email_id": "EMAIL00041",
+      "date": "2025-04-05T09:00:00.000000",
+      "event_type": "completion",
+      "description": "Critical Issue: Incomplete Plant Data Affecting Warehouse Module",
+      "sender": "Harry Singh",
+      "priority": "high"
+    }
+  ],
+  "status_summary": {
+    "current_status": "95% complete",
+    "latest_progress": {
+      "email_id": "EMAIL00040",
+      "date": "2025-03-31T09:00:00.000000",
+      "progress_percent": 95,
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 95% Success Rate"
+    },
+    "remaining_issues": {
+      "email_id": "EMAIL00035",
+      "date": "2025-03-16T09:00:00.000000",
+      "issues_remaining": 15,
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining"
+    }
+  }
+}

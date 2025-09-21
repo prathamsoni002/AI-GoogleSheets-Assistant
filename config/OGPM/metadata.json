@@ -1,0 +1,29 @@
+{
+  "workbook_name": "Product Master",
+  "last_sync": "2025-09-08T19:55:42.238240",
+  "email_count": 50,
+  "data_version": "1.0",
+  "sync_method": "outlook_com_automation_incremental",
+  "merge_info": {
+    "existing_count": 0,
+    "new_count": 50,
+    "added_count": 50,
+    "updated_count": 0,
+    "duplicate_count": 0,
+    "final_count": 50
+  },
+  "body_cleaning": {
+    "enabled": true,
+    "aggressive": true
+  },
+  "processing_status": {
+    "raw_emails_saved": true,
+    "conversations_grouped": true,
+    "ai_processing_pending": true,
+    "summary_generated": true
+  },
+  "file_info": {
+    "created": "2025-09-08T19:55:42.238240",
+    "size_estimate": "41,285,188 bytes"
+  }
+}

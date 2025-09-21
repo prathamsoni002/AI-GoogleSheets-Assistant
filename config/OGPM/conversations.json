@@ -1,0 +1,653 @@
+{
+  "threads": [
+    {
+      "conversation_id": "8CC4E37F4BD6394D8C623526B0B68833",
+      "email_count": 13,
+      "first_email": "2025-07-25T12:50:49.385000",
+      "last_email": "2025-08-06T13:59:12.941000",
+      "participants": [
+        "Jason.Martin@nikwax.co.uk",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=9e94666909ec4559bdbc393ee40f39c4-3b2dca59-5b",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ffa3b801b44b4a9d9a4cc642f6cf45da-bc36b271-0d",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=3d5dc8d9e32249339de9057b32af5fb9-16968af4-eb",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+        "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+        "jason.martin@nikwax.co.uk",
+        "alex.beaumont@paramo.co.uk"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000E74C8EAD0000",
+          "subject": "FW: File updates - Product Master",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-07-25T12:50:49.385000",
+          "body_preview": "Thanks Jo,  I have marked Percipere members to take it further for review.  Team,  Please use this email channel to respond back to Jo in case of any queries related to the Product Master.  Regards,",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000E74C8EAE0000",
+          "subject": "Re: File updates - Product Master",
+          "sender_name": "Umang Trivedi",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ffa3b801b44b4a9d9a4cc642f6cf45da-bc36b271-0d",
+          "is_sent": false,
+          "timestamp": "2025-07-25T14:20:25.491000",
+          "body_preview": "Hello All,  Acknowledged.",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000E74C8EB10000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Abhay Patil",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=3d5dc8d9e32249339de9057b32af5fb9-16968af4-eb",
+          "is_sent": false,
+          "timestamp": "2025-07-25T18:17:46.870000",
+          "body_preview": "Hi Jo,  Thanks for the product master files.  As we discussed yesterday, we understand that, in the new product codification logic, you would be including the complete ‘customer code’ as part of the p",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000E8EB36A20000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Jason Martin",
+          "sender_email": "jason.martin@nikwax.co.uk",
+          "is_sent": false,
+          "timestamp": "2025-07-28T19:41:01.689000",
+          "body_preview": "Hi Abhay,  I’ll look to chat with Jo and Jules on this in the morning and come back to you with an answer.",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000E9F04CD20000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Jason Martin",
+          "sender_email": "Jason.Martin@nikwax.co.uk",
+          "is_sent": false,
+          "timestamp": "2025-07-29T16:03:18.470000",
+          "body_preview": "Hi Abhay,  I have had a get together with Jo and Julian and have the following answers.  For the first part, yes, please proceed to create the generic products and hold on the customer specific ones.",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000EAB5FB080000",
+          "subject": "FW: File updates - Product Master",
+          "sender_name": "Abhay Patil",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=3d5dc8d9e32249339de9057b32af5fb9-16968af4-eb",
+          "is_sent": false,
+          "timestamp": "2025-07-30T13:44:46.256000",
+          "body_preview": "FYI  @Sampada Vanjare <mailto:sampada.vanjare@percipere.co>  – can you pl. set this up…..pl. make sure customer number is external one…(its already setup with that)….",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000EAB5FB090000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Abhay Patil",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=3d5dc8d9e32249339de9057b32af5fb9-16968af4-eb",
+          "is_sent": false,
+          "timestamp": "2025-07-30T13:45:13.296000",
+          "body_preview": "Thanks Jason for the confirmation. We will take a note of this.         From: Jason Martin <Jason.Martin@nikwax.co.uk>   Sent: Tuesday, July 29, 2025 4:03 PM  To: Abhay Patil <abhay.patil@percipere.co",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000EAB5FB0B0000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Sampada Vanjare",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=9e94666909ec4559bdbc393ee40f39c4-3b2dca59-5b",
+          "is_sent": false,
+          "timestamp": "2025-07-30T19:01:58.615000",
+          "body_preview": "Hi Abhay,  20000000 number range has been setup for Suppliers with account group ZO04.  Sampada S. Vanjare  Senior consultant- SAP Supply Chain",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D750000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-08-01T13:41:28.995000",
+          "body_preview": "Hello,  I have reviewed the uploaded Product Master files and would like to share a few observations. Please find the attached file for reference.  Key Points:  *\tNo ROH-type products have been listed",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000EC072BC10000",
+          "subject": "Automatic reply: File updates - Product Master",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-08-01T13:41:34.573000",
+          "body_preview": "I am on business travel from 30 July - 1 Aug. Please expect delay in my email response.  For emergency, what'sapp me on +91 9764518110, and I will find suitable time to respond back.",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D760000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-08-05T17:35:11.498000",
+          "body_preview": "Hi Jo/Alex,  This email is regarding the product groups (1-5) for Paramo.  Please find the attached list of the products group which were shared by Alex for us to create in the system, however in the",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000EEAB6A760000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Alex Beaumont",
+          "sender_email": "alex.beaumont@paramo.co.uk",
+          "is_sent": false,
+          "timestamp": "2025-08-05T20:32:59.803000",
+          "body_preview": "Hi Hariom  Please find attached a revised mapping sheet. Please note that codes can appear in multiple different fields and fields can be blank. The additional descriptions with 3 digit codes, have be",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D770000",
+          "subject": "RE: File updates - Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-08-06T13:59:12.941000",
+          "body_preview": "Thanks for providing the updates!  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 3904, 39th Floor, Kohinoor Square, NC Kelkar Road, Shivaji Park, Dadar West, Mumbai - 400028",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "6F2D2BB933246246BD44B0269CA124A6",
+      "email_count": 5,
+      "first_email": "2025-06-26T17:03:53.417000",
+      "last_email": "2025-06-27T22:44:57.375000",
+      "participants": [
+        "Julian.Gaskin@nikwax.co.uk",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=eaa745a519174d79a1eccf2481a60cb5-7991b7c8-1d",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+        "Jo.Jones@nikwax.co.uk"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000D2B78AE00000",
+          "subject": "RE: File updates - Nikwax Product Master & Material BOM",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-06-26T17:03:53.417000",
+          "body_preview": "++ Hariom and Sankalp A,  Hello Jo,  As discussed last I have loop in the respective Data Migration owner from Percipere to review mapping and upload the data if everything is fine. In case if any que",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000D2B78AE10000",
+          "subject": "RE: File updates - Nikwax Product Master & Material BOM",
+          "sender_name": "Julian Gaskin",
+          "sender_email": "Julian.Gaskin@nikwax.co.uk",
+          "is_sent": false,
+          "timestamp": "2025-06-26T17:12:44.489000",
+          "body_preview": "Thank Vivek.",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000D2B78AE20000",
+          "subject": "RE: File updates - Nikwax Product Master & Material BOM",
+          "sender_name": "Sankalp Ambade",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=eaa745a519174d79a1eccf2481a60cb5-7991b7c8-1d",
+          "is_sent": false,
+          "timestamp": "2025-06-26T18:01:24.148000",
+          "body_preview": "Hi Jo,  While reviewing the data file “Manufacturing and Quality\\5.Material BOM_NHQ_SQL.xlsx (Dated 24_06_2025)”, I noticed a couple of discrepancies  1.\tMisalignment of Product Codes \tThere appears t",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000D2B78AE40000",
+          "subject": "RE: File updates - Nikwax Product Master & Material BOM",
+          "sender_name": "Jo Jones",
+          "sender_email": "Jo.Jones@nikwax.co.uk",
+          "is_sent": false,
+          "timestamp": "2025-06-27T03:15:55.936000",
+          "body_preview": "Hi Sankalp  Thank you for the feedback.  With regards to your first point, I’m sure you are aware, we have had to make changes to more product codes than we had planned to due to the character restric",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000D2B78AEA0000",
+          "subject": "RE: File updates - Nikwax Product Master & Material BOM",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-06-27T22:44:57.375000",
+          "body_preview": "Hello Jo,  Not to worry. Sankalp will take care of it.  Regards,  Vivek Chaphekar  Sr. Delivery Manager  (M) : +44-7747 699357  (M) : +91-9764518110  www.percipere.co <https://urldefense.com/v3/__http",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "6B82625B8C96D1428673E1C125E73E24",
+      "email_count": 1,
+      "first_email": "2025-06-26T16:06:22.313000",
+      "last_email": "2025-06-26T16:06:22.313000",
+      "participants": [
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000D2B78ADE0000",
+          "subject": "FW: File updates - Nikwax Product Master & Material BOM",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-06-26T16:06:22.313000",
+          "body_preview": "FYI  Regards,  Vivek Chaphekar  Sr. Delivery Manager  (M) : +44-7747 699357  (M) : +91-9764518110  www.percipere.co <https://urldefense.com/v3/__http:/www.percipere.co/__;!!M6V3oxgm!EphMOJ76MyMYAAaa7-",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "5988973C006241F783FCC56C2FE182FD",
+      "email_count": 5,
+      "first_email": "2025-06-05T16:41:31.061000",
+      "last_email": "2025-06-12T18:29:02.979000",
+      "participants": [
+        "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ffa3b801b44b4a9d9a4cc642f6cf45da-bc36b271-0d",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=88582bd0a6204024a965652b7db79298-09d074ce-75"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000C62731CD0000",
+          "subject": "RE: Product Master - update",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-06-05T16:41:31.061000",
+          "body_preview": "Thanks Julian,  I have added Percipere members to take it further.  ++ @Sampada Vanjare <mailto:sampada.vanjare@percipere.co> , @Umang Trivedi <mailto:Umang.Trivedi@percipere.co> , @Abhay Patil <mailt",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000C88C1B000000",
+          "subject": "RE: Product Master - update",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-06-09T18:48:44.500000",
+          "body_preview": "@Sampada Vanjare <mailto:sampada.vanjare@percipere.co> , @Umang Trivedi <mailto:Umang.Trivedi@percipere.co> , @Sankalp Ambade <mailto:sankalp.ambade@percipere.co> , @Hariom Soni <mailto:hariom.soni@pe",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D5F0000",
+          "subject": "RE: Product Master - update",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-06-09T19:00:11.831000",
+          "body_preview": "Hello Vivek,  I, Sampada, and Abhay had started the upload of Product master data file on Friday. We solved the Issues during Validation and Mapping stage on Friday. But we have encountered bunch of e",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000C88C1B010000",
+          "subject": "Automatic reply: Product Master - update",
+          "sender_name": "Umang Trivedi",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ffa3b801b44b4a9d9a4cc642f6cf45da-bc36b271-0d",
+          "is_sent": false,
+          "timestamp": "2025-06-09T19:00:16.891000",
+          "body_preview": "Hi, I am out of office until 10th June, Please expect a delay in response as I have no access to email. In case of anything urgent, Kindly reach out to sampada.vanjare@percipere.co or abhay.patil@perc",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000CAAF222E0000",
+          "subject": "RE: Product Master - update",
+          "sender_name": "Neha Dogra",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=88582bd0a6204024a965652b7db79298-09d074ce-75",
+          "is_sent": false,
+          "timestamp": "2025-06-12T18:29:02.979000",
+          "body_preview": "Thank you, Jo.  Looping in the team to work on it.  Kind Regards,  Neha Dogra  Project Manager  (E) : neha.dogra@percipere.co <mailto:neha.dogra@percipere.co>  (M) : +44 7872969924  www.percipere.co <",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "C4997F9487FE45E792DA48CCDC4E8CDA",
+      "email_count": 1,
+      "first_email": "2025-05-28T16:33:04.498000",
+      "last_email": "2025-05-28T16:33:04.498000",
+      "participants": [
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000C042FE4A0000",
+          "subject": "FW: Nikwax Product Master - new upload",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-05-28T16:33:04.498000",
+          "body_preview": "Hello All,  Here is the product master update.  Regards,  Vivek Chaphekar  Sr. Delivery Manager  (M) : +44-7747 699357  (M) : +91-9764518110  www.percipere.co <https://urldefense.com/v3/__http:/www.pe",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "7779800146888E4684253EFC8E24F440",
+      "email_count": 2,
+      "first_email": "2025-05-27T20:59:49.733000",
+      "last_email": "2025-05-28T13:00:41.346000",
+      "participants": [
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ffa3b801b44b4a9d9a4cc642f6cf45da-bc36b271-0d",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000C042FE440000",
+          "subject": "Fw: Product Master - 23/05",
+          "sender_name": "Umang Trivedi",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ffa3b801b44b4a9d9a4cc642f6cf45da-bc36b271-0d",
+          "is_sent": false,
+          "timestamp": "2025-05-27T20:59:49.733000",
+          "body_preview": "Hi Guys,  Can you have a check at this?",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000C042FE480000",
+          "subject": "FW: Product Master - 23/05",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-05-28T13:00:41.346000",
+          "body_preview": "Hariom,  I guess this is for you.  Regards,  Vivek Chaphekar  Sr. Delivery Manager  (M) : +44-7747 699357  (M) : +91-9764518110  www.percipere.co <https://urldefense.com/v3/__http:/www.percipere.co/__",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "AAF0ED7835974C1FAD4E9691369FC368",
+      "email_count": 1,
+      "first_email": "2025-05-23T22:14:26.487000",
+      "last_email": "2025-05-23T22:14:26.487000",
+      "participants": [
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E00000000010C0000DEB6828EDD309741A1CD180304B96C5E0000BCDCE5A40000",
+          "subject": "FW: Product Master files.",
+          "sender_name": "Vivek Chaphekar",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+          "is_sent": false,
+          "timestamp": "2025-05-23T22:14:26.487000",
+          "body_preview": "Team,  Here is the Product Master file.  Regards,  Vivek Chaphekar  Sr. Delivery Manager  (M) : +44-7747 699357  (M) : +91-9764518110  www.percipere.co <https://urldefense.com/v3/__http:/www.percipere",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "CB84DA66BB5D4507BA9058231B7345B6",
+      "email_count": 17,
+      "first_email": "2025-05-02T17:41:57.344000",
+      "last_email": "2025-05-20T13:50:52.883000",
+      "participants": [
+        "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D3A0000",
+          "subject": "SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-02T17:41:57.344000",
+          "body_preview": "Good afternoon,  From the Product master file, I have certain observations regarding the Warehouse extension for the products:  *\tThere are certain products which are present in Warehouse Stock (Templ",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D3B0000",
+          "subject": "FW: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-02T18:59:43.369000",
+          "body_preview": "Good afternoon,  I had certain observations regarding the Product Master file which I have mentioned in the previous mail. Here just adding you to the loop.  Thanks, and Regards,  Hariom Soni  Associa",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D3D0000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-02T20:17:13.095000",
+          "body_preview": "Can we schedule the call now?  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 1005, 10th Floor, Kohinoor Square, NC Kelkar Road, Shivaji Park, Dadar West, Mumbai - 400028",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D3F0000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-06T13:51:24.896000",
+          "body_preview": "Good morning,  Catching up from last week where I have addressed the data discrepancy in the product master file; we conducted call with Paramo team, where it was concluded the Latest file filled by t",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D410000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-06T16:07:11.736000",
+          "body_preview": "Hello Mick,  Can we schedule the call at or around 12pm GMT?  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 1005, 10th Floor, Kohinoor Square, NC Kelkar Road, Shivaji Park, Dadar",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D430000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-06T16:41:18.062000",
+          "body_preview": "Sure, I’ll schedule the call for 3:15 – 3:30pm. Hope it works.  Kind Regards,  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 1005, 10th Floor, Kohinoor Square, NC Kelkar Road, Shi",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D450000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-06T20:58:13.331000",
+          "body_preview": "Hello,  That will make it more simpler. Now I will ignore the product details from Warehouse templates which are not present in the Product Master File. Additionally I had to discuss few points on the",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E0000B2B302E10000",
+          "subject": "Re: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7",
+          "is_sent": true,
+          "timestamp": "2025-05-06T22:46:35.319000",
+          "body_preview": "Good evening,  Summarizing the meeting with Nikwax team regarding the Product Master Data File we concluded:  1. \tTo remove all the fields from Warehouse templates which are not mentioned in Product M",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E0000B2E385950000",
+          "subject": "Re: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7",
+          "is_sent": true,
+          "timestamp": "2025-05-07T17:19:02.729000",
+          "body_preview": "Hi Mick,  Yes, changes in the storage types and section required. All the storage type in the mapping should be given to every individual product, corresponding storage sections will be GENERAL as dis",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E0000B2E385960000",
+          "subject": "Re: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7",
+          "is_sent": true,
+          "timestamp": "2025-05-07T19:08:51.673000",
+          "body_preview": "Apologies if that created confusion earlier. Here, I have added the names for the types and storage sections.  Storage Type  ZG01 - Generalized Storage ZPAL - Palatized Storage S910 – Goods Receipt Zo",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E0000B2E385970000",
+          "subject": "Re: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7",
+          "is_sent": true,
+          "timestamp": "2025-05-07T20:16:49.685000",
+          "body_preview": "Yes, you are correct. As discussed yesterday we will be mapping storage section as - GENERAL for all storage types.",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D460000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-08T15:14:32.949000",
+          "body_preview": "Good morning,  Thank you @Mick Parmar <mailto:mick.parmar@nikwax.co.uk>  and @John Arnold <mailto:John.Arnold@nikwax.co.uk>  for updating the Warehouse extension sheet in the Product Master Template.",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D470000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-08T16:03:28.504000",
+          "body_preview": "Sure, please let me know if you need any help from us. Other than this since we are on discussing the missing product details, I would like to highlight the fact which I believe was understandable aft",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D490000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-09T19:36:33.471000",
+          "body_preview": "Hi Marc,  Thanks for Confirmation.  Just Summarizing the main points of this loop as:  *\tProduct Master File has been updated and now it is filled (for Warehouse Sections). *\tData Discrepancy in Wareh",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D4A0000",
+          "subject": "RE: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-09T19:52:57.564000",
+          "body_preview": "Hi Marc,  I apologise for my mistake.  Yes, it was intended for Mick and Nikwax team.  Regards,  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 1005, 10th Floor, Kohinoor Square, N",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D570000",
+          "subject": "FW: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-15T19:21:12.899000",
+          "body_preview": "Paramo Product master from Marc.  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 3904, 39th Floor, Kohinoor Square, NC Kelkar Road, Shivaji Park, Dadar West, Mumbai - 400028",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D5A0000",
+          "subject": "FW: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-20T13:50:52.883000",
+          "body_preview": "This is the file he sent us Couple of weeks ago.  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 3904, 39th Floor, Kohinoor Square, NC Kelkar Road, Shivaji Park, Dadar West, Mumbai",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "D51BAA1EE65F5B49B1C54F92E0818760",
+      "email_count": 1,
+      "first_email": "2025-05-06T17:41:01.460000",
+      "last_email": "2025-05-06T17:41:01.460000",
+      "participants": [
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D440000",
+          "subject": "Accepted: SAP Product Master",
+          "sender_name": "Me",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7",
+          "is_sent": true,
+          "timestamp": "2025-05-06T17:41:01.460000",
+          "body_preview": "",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "5FA74B0FA3D8498B8D10847A85A596D4",
+      "email_count": 1,
+      "first_email": "2025-05-02T20:27:12.368000",
+      "last_email": "2025-05-02T20:27:12.368000",
+      "participants": [
+        "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D3E0000",
+          "subject": "Warehouse Product Master - Paramo",
+          "sender_name": "Me",
+          "sender_email": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7",
+          "is_sent": true,
+          "timestamp": "2025-05-02T20:27:12.368000",
+          "body_preview": "________________________________________________________________________________    Microsoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>      Join the meeting now <https://team",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "conversation_id": "0F529856885E491DAA410F46B64A4061",
+      "email_count": 3,
+      "first_email": "2025-04-30T13:07:05.301000",
+      "last_email": "2025-05-01T13:46:09.381000",
+      "participants": [
+        "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7"
+      ],
+      "emails": [
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D340000",
+          "subject": "FW: SAP Product Master & Procurement upload files.",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-04-30T13:07:05.301000",
+          "body_preview": "Hello Umang,  Can you please confirm with me that the following path for the Product master files are correct. The reason I am doubtful is that Warehouse specific data for these files seems incomplete",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D360000",
+          "subject": "RE: SAP Product Master & Procurement upload files.",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-04-30T14:07:38.846000",
+          "body_preview": "Thanks for giving the update. I can confirm with Sankalp that still the warehouse files are not yet filled properly.  Hariom Soni  Associate Consultant  (M): +91 7798446705  Office No. 1005, 10th Floo",
+          "importance": 1
+        },
+        {
+          "id": "00000000C2E67668F8C32C47993CA387352634DD0700DEB6828EDD309741A1CD180304B96C5E0000000001090000DEB6828EDD309741A1CD180304B96C5E000002BD7D370000",
+          "subject": "RE: SAP Product Master & Procurement upload files.",
+          "sender_name": "Me",
+          "sender_email": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+          "is_sent": true,
+          "timestamp": "2025-05-01T13:46:09.381000",
+          "body_preview": "Hello, sorry for the delay. In the Product master template for Paramo, there are many rows (Product) which are incomplete, seems like it is yet to filled. Also, there are other Storage types like GI,",
+          "importance": 1
+        }
+      ],
+      "status": "inactive"
+    }
+  ],
+  "total_threads": 11,
+  "last_updated": "2025-09-08T19:55:42.248281"
+}

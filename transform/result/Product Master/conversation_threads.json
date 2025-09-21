@@ -1,0 +1,737 @@
+{
+  "main_thread": [
+    {
+      "email_id": "EMAIL00001",
+      "date": "2025-01-25T09:00:00.000000",
+      "sender": "Robert Chen",
+      "subject": "Product Master Data Migration Template - SAP S4 HANA",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00002",
+      "date": "2025-01-25T13:00:00.000000",
+      "sender": "David Wilson",
+      "subject": "RE: Product Master Data Migration Template - SAP S4 HANA",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00003",
+      "date": "2025-01-25T15:00:00.000000",
+      "sender": "Michael Johnson",
+      "subject": "RE: Product Master Data Migration Template - SAP S4 HANA",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00004",
+      "date": "2025-01-26T12:00:00.000000",
+      "sender": "Emma Carter",
+      "subject": "RE: Product Master Data Migration Template - Initial Questions",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00005",
+      "date": "2025-01-26T18:00:00.000000",
+      "sender": "Kevin Liu",
+      "subject": "RE: Product Master Data Migration Template - Initial Questions",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00006",
+      "date": "2025-01-26T21:00:00.000000",
+      "sender": "Rachel Green",
+      "subject": "RE: Product Master Data Migration Template - Additional Questions",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00007",
+      "date": "2025-01-27T11:00:00.000000",
+      "sender": "Priya Sharma",
+      "subject": "Request for Supplier and Customer Master Data",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00008",
+      "date": "2025-01-27T19:00:00.000000",
+      "sender": "Sophie Turner",
+      "subject": "RE: Request for Supplier and Customer Master Data - Nikwax Response",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00009",
+      "date": "2025-01-29T03:00:00.000000",
+      "sender": "Amy Parker",
+      "subject": "Supplier/Customer Data - Batch 2",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00010",
+      "date": "2025-01-29T11:00:00.000000",
+      "sender": "Ryan Brooks",
+      "subject": "Supplier/Customer Data - Batch 2",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00011",
+      "date": "2025-01-30T19:00:00.000000",
+      "sender": "Amy Parker",
+      "subject": "Supplier/Customer Data - Batch 3",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00012",
+      "date": "2025-01-31T03:00:00.000000",
+      "sender": "Ryan Brooks",
+      "subject": "Supplier/Customer Data - Batch 3",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00013",
+      "date": "2025-02-02T09:00:00.000000",
+      "sender": "Thomas White",
+      "subject": "Product Number Character Length Limitation Query",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00014",
+      "date": "2025-02-02T15:00:00.000000",
+      "sender": "Maria Rodriguez",
+      "subject": "RE: Product Number Character Length Limitation Query",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00015",
+      "date": "2025-02-02T21:00:00.000000",
+      "sender": "Robert Chen",
+      "subject": "Meeting Request: Product Number Character Length Discussion",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00016",
+      "date": "2025-02-03T03:00:00.000000",
+      "sender": "David Wilson",
+      "subject": "Meeting Summary: Product Number Character Length Decision",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00017",
+      "date": "2025-02-06T09:00:00.000000",
+      "sender": "James Fletcher",
+      "subject": "Product Description Character Length Issue",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00018",
+      "date": "2025-02-12T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "First Submission - Product Master Data (80% Complete)",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00019",
+      "date": "2025-02-13T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Upload Validation Results - Multiple Data Issues Identified",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00022",
+      "date": "2025-02-18T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 4",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00020",
+      "date": "2025-02-19T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Second Validation Results - Supplier Data Mismatch Issues",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00023",
+      "date": "2025-02-20T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00021",
+      "date": "2025-02-22T09:00:00.000000",
+      "sender": "Michael Johnson",
+      "subject": "Data Migration Halt Request - Additional Time Required",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00024",
+      "date": "2025-02-22T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 4",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00025",
+      "date": "2025-02-24T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00026",
+      "date": "2025-02-26T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 5",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00027",
+      "date": "2025-02-28T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00028",
+      "date": "2025-03-02T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 5",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00029",
+      "date": "2025-03-04T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00030",
+      "date": "2025-03-06T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 6",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00031",
+      "date": "2025-03-08T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00032",
+      "date": "2025-03-10T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 6",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00033",
+      "date": "2025-03-12T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00034",
+      "date": "2025-03-14T09:00:00.000000",
+      "sender": "Lisa Morgan",
+      "subject": "Updated File Submission - Version 6",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00035",
+      "date": "2025-03-16T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Validation Results - Issues Remaining",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00036",
+      "date": "2025-03-27T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 91% Success Rate",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00037",
+      "date": "2025-03-28T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 92% Success Rate",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00038",
+      "date": "2025-03-29T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 93% Success Rate",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00039",
+      "date": "2025-03-30T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 94% Success Rate",
+      "has_attachments": true
+    },
+    {
+      "email_id": "EMAIL00040",
+      "date": "2025-03-31T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Progress Update - 95% Success Rate",
+      "has_attachments": false
+    },
+    {
+      "email_id": "EMAIL00041",
+      "date": "2025-04-05T09:00:00.000000",
+      "sender": "Harry Singh",
+      "subject": "Critical Issue: Incomplete Plant Data Affecting Warehouse Module",
+      "has_attachments": false
+    }
+  ],
+  "sub_threads": {
+    "Product Master Data Migration Template - SAP S4 HANA": [
+      "EMAIL00001",
+      "EMAIL00002",
+      "EMAIL00003"
+    ],
+    "Product Master Data Migration Template - Initial Questions": [
+      "EMAIL00004",
+      "EMAIL00005"
+    ],
+    "Product Master Data Migration Template - Additional Questions": [
+      "EMAIL00006"
+    ],
+    "Request for Supplier and Customer Master Data": [
+      "EMAIL00007"
+    ],
+    "Request for Supplier and Customer Master Data - Nikwax Response": [
+      "EMAIL00008"
+    ],
+    "Supplier/Customer Data - Batch 2": [
+      "EMAIL00009",
+      "EMAIL00010"
+    ],
+    "Supplier/Customer Data - Batch 3": [
+      "EMAIL00011",
+      "EMAIL00012"
+    ],
+    "Product Number Character Length Limitation Query": [
+      "EMAIL00013",
+      "EMAIL00014"
+    ],
+    "Meeting Request: Product Number Character Length Discussion": [
+      "EMAIL00015"
+    ],
+    "Meeting Summary: Product Number Character Length Decision": [
+      "EMAIL00016"
+    ],
+    "Product Description Character Length Issue": [
+      "EMAIL00017"
+    ],
+    "First Submission - Product Master Data (80% Complete)": [
+      "EMAIL00018"
+    ],
+    "Upload Validation Results - Multiple Data Issues Identified": [
+      "EMAIL00019"
+    ],
+    "Updated File Submission - Version 4": [
+      "EMAIL00022",
+      "EMAIL00024"
+    ],
+    "Second Validation Results - Supplier Data Mismatch Issues": [
+      "EMAIL00020"
+    ],
+    "Validation Results - Issues Remaining": [
+      "EMAIL00023",
+      "EMAIL00025",
+      "EMAIL00027",
+      "EMAIL00029",
+      "EMAIL00031",
+      "EMAIL00033",
+      "EMAIL00035"
+    ],
+    "Data Migration Halt Request - Additional Time Required": [
+      "EMAIL00021"
+    ],
+    "Updated File Submission - Version 5": [
+      "EMAIL00026",
+      "EMAIL00028"
+    ],
+    "Updated File Submission - Version 6": [
+      "EMAIL00030",
+      "EMAIL00032",
+      "EMAIL00034"
+    ],
+    "Progress Update - 91% Success Rate": [
+      "EMAIL00036"
+    ],
+    "Progress Update - 92% Success Rate": [
+      "EMAIL00037"
+    ],
+    "Progress Update - 93% Success Rate": [
+      "EMAIL00038"
+    ],
+    "Progress Update - 94% Success Rate": [
+      "EMAIL00039"
+    ],
+    "Progress Update - 95% Success Rate": [
+      "EMAIL00040"
+    ],
+    "Critical Issue: Incomplete Plant Data Affecting Warehouse Module": [
+      "EMAIL00041"
+    ]
+  },
+  "conversation_flow": [],
+  "participant_interactions": {
+    "Robert Chen": [
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00001",
+        "date": "2025-01-25T09:00:00.000000"
+      },
+      {
+        "to": "Michael Johnson",
+        "email_id": "EMAIL00001",
+        "date": "2025-01-25T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00015",
+        "date": "2025-02-02T21:00:00.000000"
+      },
+      {
+        "to": "Michael Johnson",
+        "email_id": "EMAIL00015",
+        "date": "2025-02-02T21:00:00.000000"
+      }
+    ],
+    "David Wilson": [
+      {
+        "to": "Robert Chen",
+        "email_id": "EMAIL00002",
+        "date": "2025-01-25T13:00:00.000000"
+      },
+      {
+        "to": "Michael Johnson",
+        "email_id": "EMAIL00002",
+        "date": "2025-01-25T13:00:00.000000"
+      },
+      {
+        "to": "Michael Johnson",
+        "email_id": "EMAIL00016",
+        "date": "2025-02-03T03:00:00.000000"
+      },
+      {
+        "to": "Robert Chen",
+        "email_id": "EMAIL00016",
+        "date": "2025-02-03T03:00:00.000000"
+      }
+    ],
+    "Michael Johnson": [
+      {
+        "to": "Robert Chen",
+        "email_id": "EMAIL00003",
+        "date": "2025-01-25T15:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00003",
+        "date": "2025-01-25T15:00:00.000000"
+      },
+      {
+        "to": "Robert Chen",
+        "email_id": "EMAIL00021",
+        "date": "2025-02-22T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00021",
+        "date": "2025-02-22T09:00:00.000000"
+      }
+    ],
+    "Emma Carter": [
+      {
+        "to": "Kevin Liu",
+        "email_id": "EMAIL00004",
+        "date": "2025-01-26T12:00:00.000000"
+      },
+      {
+        "to": "Priya Sharma",
+        "email_id": "EMAIL00004",
+        "date": "2025-01-26T12:00:00.000000"
+      }
+    ],
+    "Kevin Liu": [
+      {
+        "to": "Emma Carter",
+        "email_id": "EMAIL00005",
+        "date": "2025-01-26T18:00:00.000000"
+      },
+      {
+        "to": "Rachel Green",
+        "email_id": "EMAIL00005",
+        "date": "2025-01-26T18:00:00.000000"
+      }
+    ],
+    "Rachel Green": [
+      {
+        "to": "Kevin Liu",
+        "email_id": "EMAIL00006",
+        "date": "2025-01-26T21:00:00.000000"
+      },
+      {
+        "to": "Priya Sharma",
+        "email_id": "EMAIL00006",
+        "date": "2025-01-26T21:00:00.000000"
+      }
+    ],
+    "Priya Sharma": [
+      {
+        "to": "Sophie Turner",
+        "email_id": "EMAIL00007",
+        "date": "2025-01-27T11:00:00.000000"
+      },
+      {
+        "to": "Ryan Brooks",
+        "email_id": "EMAIL00007",
+        "date": "2025-01-27T11:00:00.000000"
+      },
+      {
+        "to": "Amy Parker",
+        "email_id": "EMAIL00007",
+        "date": "2025-01-27T11:00:00.000000"
+      },
+      {
+        "to": "Chris Taylor",
+        "email_id": "EMAIL00007",
+        "date": "2025-01-27T11:00:00.000000"
+      }
+    ],
+    "Sophie Turner": [
+      {
+        "to": "Priya Sharma",
+        "email_id": "EMAIL00008",
+        "date": "2025-01-27T19:00:00.000000"
+      },
+      {
+        "to": "Ryan Brooks",
+        "email_id": "EMAIL00008",
+        "date": "2025-01-27T19:00:00.000000"
+      }
+    ],
+    "Amy Parker": [
+      {
+        "to": "Priya Sharma",
+        "email_id": "EMAIL00009",
+        "date": "2025-01-29T03:00:00.000000"
+      },
+      {
+        "to": "Priya Sharma",
+        "email_id": "EMAIL00011",
+        "date": "2025-01-30T19:00:00.000000"
+      }
+    ],
+    "Ryan Brooks": [
+      {
+        "to": "Priya Sharma",
+        "email_id": "EMAIL00010",
+        "date": "2025-01-29T11:00:00.000000"
+      },
+      {
+        "to": "Priya Sharma",
+        "email_id": "EMAIL00012",
+        "date": "2025-01-31T03:00:00.000000"
+      }
+    ],
+    "Thomas White": [
+      {
+        "to": "Maria Rodriguez",
+        "email_id": "EMAIL00013",
+        "date": "2025-02-02T09:00:00.000000"
+      }
+    ],
+    "Maria Rodriguez": [
+      {
+        "to": "Thomas White",
+        "email_id": "EMAIL00014",
+        "date": "2025-02-02T15:00:00.000000"
+      },
+      {
+        "to": "Emma Carter",
+        "email_id": "EMAIL00014",
+        "date": "2025-02-02T15:00:00.000000"
+      }
+    ],
+    "James Fletcher": [
+      {
+        "to": "Kevin Liu",
+        "email_id": "EMAIL00017",
+        "date": "2025-02-06T09:00:00.000000"
+      }
+    ],
+    "Lisa Morgan": [
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00018",
+        "date": "2025-02-12T09:00:00.000000"
+      },
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00022",
+        "date": "2025-02-18T09:00:00.000000"
+      },
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00024",
+        "date": "2025-02-22T09:00:00.000000"
+      },
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00026",
+        "date": "2025-02-26T09:00:00.000000"
+      },
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00028",
+        "date": "2025-03-02T09:00:00.000000"
+      },
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00030",
+        "date": "2025-03-06T09:00:00.000000"
+      },
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00032",
+        "date": "2025-03-10T09:00:00.000000"
+      },
+      {
+        "to": "Harry Singh",
+        "email_id": "EMAIL00034",
+        "date": "2025-03-14T09:00:00.000000"
+      }
+    ],
+    "Harry Singh": [
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00019",
+        "date": "2025-02-13T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00019",
+        "date": "2025-02-13T09:00:00.000000"
+      },
+      {
+        "to": "Sophie Turner",
+        "email_id": "EMAIL00020",
+        "date": "2025-02-19T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00020",
+        "date": "2025-02-19T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00023",
+        "date": "2025-02-20T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00025",
+        "date": "2025-02-24T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00027",
+        "date": "2025-02-28T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00029",
+        "date": "2025-03-04T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00031",
+        "date": "2025-03-08T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00033",
+        "date": "2025-03-12T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00035",
+        "date": "2025-03-16T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00036",
+        "date": "2025-03-27T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00036",
+        "date": "2025-03-27T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00037",
+        "date": "2025-03-28T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00037",
+        "date": "2025-03-28T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00038",
+        "date": "2025-03-29T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00038",
+        "date": "2025-03-29T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00039",
+        "date": "2025-03-30T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00039",
+        "date": "2025-03-30T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00040",
+        "date": "2025-03-31T09:00:00.000000"
+      },
+      {
+        "to": "Lisa Morgan",
+        "email_id": "EMAIL00040",
+        "date": "2025-03-31T09:00:00.000000"
+      },
+      {
+        "to": "David Wilson",
+        "email_id": "EMAIL00041",
+        "date": "2025-04-05T09:00:00.000000"
+      },
+      {
+        "to": "Michael Johnson",
+        "email_id": "EMAIL00041",
+        "date": "2025-04-05T09:00:00.000000"
+      },
+      {
+        "to": "Robert Chen",
+        "email_id": "EMAIL00041",
+        "date": "2025-04-05T09:00:00.000000"
+      }
+    ]
+  }
+}

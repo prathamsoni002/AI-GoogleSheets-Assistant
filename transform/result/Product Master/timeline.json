@@ -1,0 +1,59 @@
+{
+  "overall": {
+    "first": "EMAIL00001",
+    "last": "EMAIL00041",
+    "first_date": "2025-01-25T09:00:00.000000",
+    "last_date": "2025-04-05T09:00:00.000000"
+  },
+  "by_month": {
+    "2025-01": [
+      "EMAIL00001",
+      "EMAIL00002",
+      "EMAIL00003",
+      "EMAIL00004",
+      "EMAIL00005",
+      "EMAIL00006",
+      "EMAIL00007",
+      "EMAIL00008",
+      "EMAIL00009",
+      "EMAIL00010",
+      "EMAIL00011",
+      "EMAIL00012"
+    ],
+    "2025-02": [
+      "EMAIL00013",
+      "EMAIL00014",
+      "EMAIL00015",
+      "EMAIL00016",
+      "EMAIL00017",
+      "EMAIL00018",
+      "EMAIL00019",
+      "EMAIL00022",
+      "EMAIL00020",
+      "EMAIL00023",
+      "EMAIL00021",
+      "EMAIL00024",
+      "EMAIL00025",
+      "EMAIL00026",
+      "EMAIL00027"
+    ],
+    "2025-03": [
+      "EMAIL00028",
+      "EMAIL00029",
+      "EMAIL00030",
+      "EMAIL00031",
+      "EMAIL00032",
+      "EMAIL00033",
+      "EMAIL00034",
+      "EMAIL00035",
+      "EMAIL00036",
+      "EMAIL00037",
+      "EMAIL00038",
+      "EMAIL00039",
+      "EMAIL00040"
+    ],
+    "2025-04": [
+      "EMAIL00041"
+    ]
+  }
+}

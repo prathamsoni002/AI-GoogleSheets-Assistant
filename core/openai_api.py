@@ -9,7 +9,7 @@ def get_ai_response(user_input):
     
     # Handle regular chatbot messages
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4.1-mini",
         messages=[{"role": "user", "content": user_input}]
     )
     
@@ -50,15 +50,3 @@ def handle_translation_request(client, data):
         print(f"❗ Error during translation request: {e}")
         return []
     
-def get_ai_response(user_input):
-    client = openai.OpenAI()
-
-    if isinstance(user_input, dict) and user_input.get("task") == "translate":
-        return handle_translation_request(client, user_input)
-
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[{"role": "user", "content": user_input}]
-    )
-
-    return response.choices[0].message.content

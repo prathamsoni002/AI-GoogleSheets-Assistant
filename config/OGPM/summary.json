@@ -1,0 +1,42 @@
+{
+  "workbook_name": "Product Master",
+  "total_emails": 50,
+  "received_count": 24,
+  "sent_count": 26,
+  "date_range": {
+    "first_email": "2025-04-30T13:07:05.301000",
+    "last_email": "2025-08-06T13:59:12.941000"
+  },
+  "participants": [
+    "Jason.Martin@nikwax.co.uk",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=9e94666909ec4559bdbc393ee40f39c4-3b2dca59-5b",
+    "jo.jones@nikwax.co.uk",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=4b8e509c28464d7f865ad5f501db30d3-1be1ad9e-d8",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=3d5dc8d9e32249339de9057b32af5fb9-16968af4-eb",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ffa3b801b44b4a9d9a4cc642f6cf45da-bc36b271-0d",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=99f3783c67c946c5935ae844725089ef-66c4c2bb-f7",
+    "Julian.Gaskin@nikwax.co.uk",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=eaa745a519174d79a1eccf2481a60cb5-7991b7c8-1d",
+    "kate.thompson@nikwax.co.uk",
+    "mick.parmar@nikwax.co.uk",
+    "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=99F3783C67C946C5935AE844725089EF-66C4C2BB-F7",
+    "Jo.Jones@nikwax.co.uk",
+    "jason.martin@nikwax.co.uk",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=88582bd0a6204024a965652b7db79298-09d074ce-75",
+    "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=a41c2ebfb30b46e699326699da0c7827-001f3e80-1a",
+    "marc.uren@paramo.co.uk",
+    "alex.beaumont@paramo.co.uk"
+  ],
+  "recent_activity": {
+    "last_7_days": 0,
+    "recent_subjects": []
+  },
+  "email_types": {
+    "with_attachments": 45,
+    "high_importance": 0,
+    "unique_subjects": 17
+  },
+  "current_status": "inactive",
+  "needs_processing": true,
+  "last_updated": "2025-09-08T19:55:42.248351"
+}

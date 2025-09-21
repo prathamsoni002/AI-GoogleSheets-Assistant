@@ -15,8 +15,8 @@
         "css": ["styles.css"]
       }
     ],
-    "permissions": ["storage"],
-    "host_permissions": ["https://docs.google.com/spreadsheets/*"],
+    "permissions": ["activeTab", "storage"],
+    "host_permissions": ["http://localhost:5001/*", "https://docs.google.com/spreadsheets/*", "https://7b227064897c.ngrok-free.app/*"],
     "web_accessible_resources": [
       {
       "resources": ["icon.png", "logo.png"],
