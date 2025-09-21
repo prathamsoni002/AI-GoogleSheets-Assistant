@@ -1,0 +1,80 @@
+{
+  "data_quality_issues": [
+    {
+      "email_id": "EMAIL00019",
+      "date": "2025-02-13T09:00:00.000000",
+      "issues": [
+        "Duplicate records: 47",
+        "Missing mandatory Plant Data: 156 records",
+        "Missing Base Unit of Measure: 234 records",
+        "Invalid MRP Area codes: 89 records"
+      ],
+      "sender": "Harry Singh",
+      "status": "identified"
+    }
+  ],
+  "system_constraints": [
+    {
+      "email_id": "EMAIL00013",
+      "date": "2025-02-02T09:00:00.000000",
+      "constraint_type": "field_length_limit",
+      "description": "Product Number Character Length Limitation Query",
+      "impact": "This affects about 60% of our product range."
+    },
+    {
+      "email_id": "EMAIL00014",
+      "date": "2025-02-02T15:00:00.000000",
+      "constraint_type": "field_length_limit",
+      "description": "RE: Product Number Character Length Limitation Query",
+      "impact": "This cannot be extended."
+    },
+    {
+      "email_id": "EMAIL00015",
+      "date": "2025-02-02T21:00:00.000000",
+      "constraint_type": "field_length_limit",
+      "description": "Meeting Request: Product Number Character Length Discussion",
+      "impact": ""
+    },
+    {
+      "email_id": "EMAIL00016",
+      "date": "2025-02-03T03:00:00.000000",
+      "constraint_type": "field_length_limit",
+      "description": "Meeting Summary: Product Number Character Length Decision",
+      "impact": ""
+    },
+    {
+      "email_id": "EMAIL00017",
+      "date": "2025-02-06T09:00:00.000000",
+      "constraint_type": "field_length_limit",
+      "description": "Product Description Character Length Issue",
+      "impact": ""
+    },
+    {
+      "email_id": "EMAIL00041",
+      "date": "2025-04-05T09:00:00.000000",
+      "constraint_type": "system_limit",
+      "description": "Critical Issue: Incomplete Plant Data Affecting Warehouse Module",
+      "impact": "This is affecting the Warehouse Management module templates. **Impact:**\n- Warehouse Stock template cannot be populated\n- Inventory management functions limited\n- Distribution processes may be affected\n\nRecommend immediate workshop to define complete plant data requirements."
+    }
+  ],
+  "process_issues": [],
+  "resolution_timeline": [],
+  "critical_issues": [
+    {
+      "email_id": "EMAIL00021",
+      "date": "2025-02-22T09:00:00.000000",
+      "issue_type": "critical",
+      "description": "Data Migration Halt Request - Additional Time Required",
+      "impact": "",
+      "action_required": "immediate"
+    },
+    {
+      "email_id": "EMAIL00041",
+      "date": "2025-04-05T09:00:00.000000",
+      "issue_type": "critical",
+      "description": "Critical Issue: Incomplete Plant Data Affecting Warehouse Module",
+      "impact": "This is affecting the Warehouse Management module templates. **Impact:**\n- Warehouse Stock template cannot be populated\n- Inventory management functions limited\n- Distribution processes may be affected\n\nRecommend immediate workshop to define complete plant data requirements.",
+      "action_required": "immediate"
+    }
+  ]
+}

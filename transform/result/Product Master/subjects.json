@@ -1,0 +1,178 @@
+{
+  "Product Master Data Migration Template - SAP S4 HANA": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00001"
+    ]
+  },
+  "RE: Product Master Data Migration Template - SAP S4 HANA": {
+    "count": 2,
+    "email_ids": [
+      "EMAIL00002",
+      "EMAIL00003"
+    ]
+  },
+  "RE: Product Master Data Migration Template - Initial Questions": {
+    "count": 2,
+    "email_ids": [
+      "EMAIL00004",
+      "EMAIL00005"
+    ]
+  },
+  "RE: Product Master Data Migration Template - Additional Questions": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00006"
+    ]
+  },
+  "Request for Supplier and Customer Master Data": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00007"
+    ]
+  },
+  "RE: Request for Supplier and Customer Master Data - Nikwax Response": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00008"
+    ]
+  },
+  "Supplier/Customer Data - Batch 2": {
+    "count": 2,
+    "email_ids": [
+      "EMAIL00009",
+      "EMAIL00010"
+    ]
+  },
+  "Supplier/Customer Data - Batch 3": {
+    "count": 2,
+    "email_ids": [
+      "EMAIL00011",
+      "EMAIL00012"
+    ]
+  },
+  "Product Number Character Length Limitation Query": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00013"
+    ]
+  },
+  "RE: Product Number Character Length Limitation Query": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00014"
+    ]
+  },
+  "Meeting Request: Product Number Character Length Discussion": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00015"
+    ]
+  },
+  "Meeting Summary: Product Number Character Length Decision": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00016"
+    ]
+  },
+  "Product Description Character Length Issue": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00017"
+    ]
+  },
+  "First Submission - Product Master Data (80% Complete)": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00018"
+    ]
+  },
+  "Upload Validation Results - Multiple Data Issues Identified": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00019"
+    ]
+  },
+  "Updated File Submission - Version 4": {
+    "count": 2,
+    "email_ids": [
+      "EMAIL00022",
+      "EMAIL00024"
+    ]
+  },
+  "Second Validation Results - Supplier Data Mismatch Issues": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00020"
+    ]
+  },
+  "Validation Results - Issues Remaining": {
+    "count": 7,
+    "email_ids": [
+      "EMAIL00023",
+      "EMAIL00025",
+      "EMAIL00027",
+      "EMAIL00029",
+      "EMAIL00031",
+      "EMAIL00033",
+      "EMAIL00035"
+    ]
+  },
+  "Data Migration Halt Request - Additional Time Required": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00021"
+    ]
+  },
+  "Updated File Submission - Version 5": {
+    "count": 2,
+    "email_ids": [
+      "EMAIL00026",
+      "EMAIL00028"
+    ]
+  },
+  "Updated File Submission - Version 6": {
+    "count": 3,
+    "email_ids": [
+      "EMAIL00030",
+      "EMAIL00032",
+      "EMAIL00034"
+    ]
+  },
+  "Progress Update - 91% Success Rate": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00036"
+    ]
+  },
+  "Progress Update - 92% Success Rate": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00037"
+    ]
+  },
+  "Progress Update - 93% Success Rate": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00038"
+    ]
+  },
+  "Progress Update - 94% Success Rate": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00039"
+    ]
+  },
+  "Progress Update - 95% Success Rate": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00040"
+    ]
+  },
+  "Critical Issue: Incomplete Plant Data Affecting Warehouse Module": {
+    "count": 1,
+    "email_ids": [
+      "EMAIL00041"
+    ]
+  }
+}

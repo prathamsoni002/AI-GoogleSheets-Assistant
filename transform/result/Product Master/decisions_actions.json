@@ -1,0 +1,59 @@
+{
+  "key_decisions": [
+    {
+      "email_id": "EMAIL00016",
+      "date": "2025-02-03T03:00:00.000000",
+      "decision_maker": "David Wilson",
+      "decision": "Hi all,\n\nSummary from today's meeting:\n\nDecisions made:\n1. Both companies will adopt 18-character limit product codes\n2.",
+      "subject": "Meeting Summary: Product Number Character Length Decision"
+    }
+  ],
+  "action_items": [],
+  "meeting_outcomes": [
+    {
+      "email_id": "EMAIL00016",
+      "date": "2025-02-03T03:00:00.000000",
+      "meeting_type": "technical_discussion",
+      "outcomes": [
+        "1. Both companies will adopt 18-character limit product codes",
+        "2. New format: [BRAND][CATEGORY][TYPE][SIZE][COLOR]",
+        "3. Implementation by end of February 2025"
+      ],
+      "next_steps": [
+        "Next review meeting: February 5, 2025",
+        "Regards,",
+        "David Wilson"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "email_id": "EMAIL00001",
+      "date": "2025-01-25T09:00:00.000000",
+      "recommender": "Robert Chen",
+      "recommendation": "Dear David Wilson and Michael Johnson,\n\nFollowing our call yesterday, please find attached the SAP S4 HANA Product Master data migration template for both Nikwax and Paramo divisions.\n\nThe template contains the following sheets:\n- Basic data\n- Warehouse Product Extension\n- Warehouse Storage type ext...",
+      "priority": "medium"
+    },
+    {
+      "email_id": "EMAIL00014",
+      "date": "2025-02-02T15:00:00.000000",
+      "recommender": "Maria Rodriguez",
+      "recommendation": "Hi Thomas White,\n\nThe SAP S4 HANA Public Cloud template has a strict 18-character limit for product numbers. This cannot be extended.\n\nI recommend creating new shortened product codes for cleaner master data. We should schedule a call to discuss the new numbering convention.\n\nRegards,\nMaria Rodrigue...",
+      "priority": "medium"
+    },
+    {
+      "email_id": "EMAIL00020",
+      "date": "2025-02-19T09:00:00.000000",
+      "recommender": "Harry Singh",
+      "recommendation": "Hi Sophie Turner and team,\n\nSecond validation completed. We've identified critical supplier data problems:\n\n**Supplier Data Mismatches:**\n- 78 supplier codes in Product Master don't exist in supplier data provided by finance\n- 34 supplier codes have different names between datasets\n- 12 suppliers ma...",
+      "priority": "high"
+    },
+    {
+      "email_id": "EMAIL00041",
+      "date": "2025-04-05T09:00:00.000000",
+      "recommender": "Harry Singh",
+      "recommendation": "Hi David Wilson, Michael Johnson, and Robert Chen,\n\nDuring final system testing, we've discovered a critical issue:\n\n**Problem Identified:**\nThe product master data uploaded does not include complete plant data for all organizational units. This is affecting the Warehouse Management module templates...",
+      "priority": "high"
+    }
+  ]
+}

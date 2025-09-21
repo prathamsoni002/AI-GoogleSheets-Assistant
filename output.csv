@@ -1,0 +1,497 @@
+﻿Sheet1,Sheet Name,Group Name,Field Description,Importance,Type,Length,Decimal,SAP Structure,SAP Field
+,Basic Data (mandatory),,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MARA,PRODUCT
+,,Header Data,Product Type,mandatory for sheet,Text,80    ,,S_MARA,MTART
+,,,Product Group,,Text,80    ,,S_MARA,MATKL
+,,,Description,mandatory for sheet,Text,40    ,,S_MARA,MAKTX
+,,,Language Key,mandatory for sheet,Text,80    ,,S_MARA,SPRAS
+,,,Base Unit of Measure (ISO Format),mandatory for sheet,Text,80    ,,S_MARA,MEINS
+,,,Change Number,,Text,80    ,,S_MARA,AENNR
+,,,Revision Level,,Text,80    ,,S_MARA,REVLV
+,,,GTIN,,Text,18    ,,S_MARA,EAN11
+,,,GTIN Category,,Text,80    ,,S_MARA,NUMTP
+,,Basic Data,Division,,Text,80    ,,S_MARA,SPART
+,,,Old Product Number,,Text,40    ,,S_MARA,BISMT
+,,,Indicator: Batch Management Required,,Text,1     ,,S_MARA,XCHPF
+,,Basic Data (Retail),Valid From,,Date,,,S_MARA,DATAB
+,,Basic Data,Competitor,,Text,80    ,,S_MARA,KUNNR
+,,Content / Design,Industry Standard Description,,Text,18    ,,S_MARA,NORMT
+,,,Size/Dimensions,,Text,32    ,,S_MARA,GROES
+,,,Laboratory / Design Office,,Text,80    ,,S_MARA,LABOR
+,,Groupings,External Product Group,,Text,80    ,,S_MARA,EXTWG
+,,,General Item Category Group,,Text,80    ,,S_MARA,MTPOS_MARA
+,,,Authorization Group,,Text,4     ,,S_MARA,BEGRU
+,,Statuses,Cross-Plant Product Status,,Text,80    ,,S_MARA,MSTAE
+,,,Valid-From Date,,Date,,,S_MARA,MSTDE
+,,,Level of Explicitness for Serial Number,,Text,80    ,,S_MARA,SERLV
+,,,Indicator: QM in Procurement Is Active,,Text,1     ,,S_MARA,QMPUR
+,,,ANP Code,,Text,80    ,,S_MARA,ANP
+,,Dimensions Base Unit of Measure,Gross Weight,,Number,13    ,3     ,S_MARA,BRGEW
+,,,Net Weight,,Number,13    ,3     ,S_MARA,NTGEW
+,,,Unit of Weight (ISO Format),,Text,80    ,,S_MARA,GEWEI
+,,,Length,,Number,13    ,3     ,S_MARA,LAENG
+,,,Width,,Number,13    ,3     ,S_MARA,BREIT
+,,,Height,,Number,13    ,3     ,S_MARA,HOEHE
+,,,Unit for Length/Width/Height(ISO Format),,Text,80    ,,S_MARA,MEABM
+,,,Volume,,Number,13    ,3     ,S_MARA,VOLUM
+,,,Volume Unit,,Text,80    ,,S_MARA,VOLEH
+,,,Capacity Usage,,Number,15    ,3     ,S_MARA,CAPAUSE
+,,Product Compliance,Compliance Relevant,,Text,80    ,,S_MARA,CHML_CMPLNC_RLVNCE_IND
+,,Configuration,Indicator: Product Is Configurable,,Text,1     ,,S_MARA,KZKFG
+,,Purchasing Header Data,Order Unit of Measure (ISO Format),,Text,80    ,,S_MARA,BSTME
+,,,Purchasing Value Key,,Text,80    ,,S_MARA,EKWSL
+,,,State of Variable Purchase Order Unit,,Text,80    ,,S_MARA,VABME
+,,Purchasing - Manufacturer Data,Internal Product Number,,Text,80    ,,S_MARA,BMATN
+,,,Manufacturer Part Number,,Text,40    ,,S_MARA,MFRPN
+,,,Manufacturer Number,,Text,80    ,,S_MARA,MFRNR
+,,,Manufacturer Part Profile,,Text,80    ,,S_MARA,MPROF
+,,Sales Header Data,Transportation Group,,Text,80    ,,S_MARA,TRAGR
+,,,Cross-Distribution Chain Product Status,,Text,80    ,,S_MARA,MSTAV
+,,,Valid From Date for Status,,Date,,,S_MARA,MSTDV
+,,,Billing Cycle,,Text,80    ,,S_MARA,SOM_CYCLE
+,,,Billing Cycle Determination Rule,,Text,80    ,,S_MARA,SOM_CYCLE_RULE
+,,,Assignment Schema,,Text,80    ,,S_MARA,SOM_TC_SCHEMA
+,,Sales Header Data Packaging,Product Group: Packaging Materials,,Text,80    ,,S_MARA,MAGRV
+,,,Packaging Product Type,,Text,80    ,,S_MARA,VHIART
+,,,Allowed Packaging Weight,,Number,13    ,3     ,S_MARA,ERGEW
+,,,Unit of Allowed Packaging Weight,,Text,80    ,,S_MARA,ERGEI
+,,,Excess Weight Tolerance for HU,,Number,3     ,1     ,S_MARA,GEWTO
+,,,Allowed Packaging Volume,,Number,13    ,3     ,S_MARA,ERVOL
+,,,Unit of Allowed Packaging Volume,,Text,80    ,,S_MARA,ERVOE
+,,,Indicator: Product Is Closed Packaging,,Text,1     ,,S_MARA,KZGVH
+,,,Excess Volume Tolerance for HU,,Number,3     ,1     ,S_MARA,VOLTO
+,,Storage Header Data,Period Indicator for Shelf Life,,Text,80    ,,S_MARA,IPRKZ
+,,,Storage Conditions,,Text,80    ,,S_MARA,RAUBE
+,,,Temperature Conditions Indicator,,Text,80    ,,S_MARA,TEMPB
+,,,Container Requirements,,Text,80    ,,S_MARA,BEHVO
+,,,Hazardous Product Number,,Text,40    ,,S_MARA,STOFF
+,,,Label Type,,Text,80    ,,S_MARA,ETIAR
+,,,Label Form,,Text,80    ,,S_MARA,ETIFO
+,,,Number of Goods Receipt/Issue Slips,,Number,13    ,3     ,S_MARA,WESCH
+,,,Indicator: Approved Batch Rec. Required,,Text,1     ,,S_MARA,XGCHP
+,,Shelf Life Advanced Planning,Total Shelf Life,,Number,4     ,,S_MARA,MHDHB
+,,,Minimum Remaining Shelf Life,,Number,4     ,,S_MARA,MHDRZ
+,,,Indi. for the Shelf Life Expiration Date,,Text,80    ,,S_MARA,SLED_BBD
+,,,Storage Percentage,,Number,3     ,,S_MARA,MHDLP
+,,,Rounding Rule for Calculation of SLED,,Text,80    ,,S_MARA,RDMHD
+,,WM Execution Data,Handling Indicator,,Text,80    ,,S_MARA,HNDLCODE
+,,,Warehouse Product Group,,Text,80    ,,S_MARA,WHMATGR
+,,WM Packaging / General Packaging,Handling Unit Type,,Text,80    ,,S_MARA,HUTYP
+,,Select Views/Maintenance Status,Indicator: Quality,,Text,1     ,,S_MARA,PSTATQ
+,,,Indicator: Sales,,Text,1     ,,S_MARA,PSTATV
+,,,Indicator: Storage,,Text,1     ,,S_MARA,PSTATL
+,,,Indicator: Purchasing,,Text,1     ,,S_MARA,PSTATE
+,,Key User Extensibility Fields,Base Product,,Text,40    ,,S_MARA,YY1_BASEPRODUCTWEB_PRD
+,,,Colour for Web,,Number,25    ,,S_MARA,YY1_COLOURFORWEB_PRD
+,,,Size/Volume for Web,,Text,3     ,,S_MARA,YY1_SIZEVOLUMEFORWEB_PRD
+,Additional Descriptions,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MAKT,PRODUCT
+,,,Language Key,mandatory for sheet,Text,80    ,,S_MAKT,SPRAS
+,,Mandatory,Product Description,mandatory for sheet,Text,40    ,,S_MAKT,MAKTX
+,Alternative Units of Measure,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MARM,PRODUCT
+,,,Alternative Unit of Measure (ISO Format),mandatory for sheet,Text,80    ,,S_MARM,MEINH
+,,Units of Measure/EANs/Dimensions,Denominator for Conversion to Base Unit,mandatory for sheet,Number,5     ,,S_MARM,UMREN
+,,,Numerator for Conversion to Base Unit,mandatory for sheet,Number,5     ,,S_MARM,UMREZ
+,,,GTIN,,Text,18    ,,S_MARM,EAN11
+,,,GTIN Category,,Text,80    ,,S_MARM,NUMTP
+,,,Length,,Number,13    ,3     ,S_MARM,LAENG
+,,,Width,,Number,13    ,3     ,S_MARM,BREIT
+,,,Height,,Number,13    ,3     ,S_MARM,HOEHE
+,,,Unit for Length/Width/Height(ISO Format),,Text,80    ,,S_MARM,MEABM
+,,,Gross Weight,,Number,13    ,3     ,S_MARM,BRGEW
+,,,Unit of Weight (ISO Format),,Text,80    ,,S_MARM,GEWEI
+,,,Volume,,Number,13    ,3     ,S_MARM,VOLUM
+,,,Volume Unit (ISO Format),,Text,80    ,,S_MARM,VOLEH
+,,,Capacity Usage,,Number,15    ,3     ,S_MARM,CAPAUSE
+,Additional GTINs,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MEAN,PRODUCT
+,,,Alternative Unit of Measure (ISO Format),mandatory for sheet,Text,80    ,,S_MEAN,MEINH
+,,,GTIN,,Text,18    ,,S_MEAN,EAN11
+,,,GTIN Category,,Text,80    ,,S_MEAN,EANTP
+,Warehouse Product,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MATLWH,PRODUCT
+,,,Warehouse Number,mandatory for sheet,Text,80    ,,S_MATLWH,LGNUM
+,,,Party Entitled to Dispose,mandatory for sheet,Text,80    ,,S_MATLWH,ENTITLED
+,,General Information,Process Block Profile,,Text,80    ,,S_MATLWH,PROCPRFL
+,,,Process Type Determination Indicator,,Text,80    ,,S_MATLWH,PTDETIND
+,,,Cycle Counting Indicator,,Text,80    ,,S_MATLWH,CCIND
+,,,Required Minimum Shelf Life,,Number,6     ,2     ,S_MATLWH,SHELF_LIFE_REQ_MM
+,,,Preferred UoM,,Text,80    ,,S_MATLWH,PUOM_WH
+,,Putaway,Putaway Control Indicator,,Text,80    ,,S_MATLWH,PUT_STRA
+,,,Storage Section Indicator,,Text,80    ,,S_MATLWH,LGBKZ
+,,,Storage Bin Type,,Text,80    ,,S_MATLWH,LPTYP
+,,,Bulk Storage Indicator,,Text,80    ,,S_MATLWH,BLOCK
+,,Stock Removal,Stock Removal Control Indicator,,Text,80    ,,S_MATLWH,REM_STRA
+,,,Stock Determination Group,,Text,80    ,,S_MATLWH,STCKDETGR
+,,,Staging Area or Door Determination Group,,Text,80    ,,S_MATLWH,DRDETGR
+,Warehouse Product Storage Type,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MATLWHST,PRODUCT
+,,,Warehouse Number,mandatory for sheet,Text,80    ,,S_MATLWHST,LGNUM
+,,,Party Entitled to Dispose,mandatory for sheet,Text,80    ,,S_MATLWHST,ENTITLED
+,,,Storage Type,mandatory for sheet,Text,80    ,,S_MATLWHST,LGTYP
+,,General Information,Storage Section Indicator,,Text,80    ,,S_MATLWHST,SECTIND
+,,,Storage Bin Type,,Text,80    ,,S_MATLWHST,BINTYPE
+,,,Sort Rule for Empty Storage Bin Search,,Text,80    ,,S_MATLWHST,BINSRCH
+,,,Maximum Number of Bins,,Number,3     ,,S_MATLWHST,MAXFIXBIN
+,,,Putaway Threshold of Storage Bin,,Number,5     ,2     ,S_MATLWHST,SPLITTH
+,,,Putaway Sequence,,Text,2     ,,S_MATLWHST,SEQPUT
+,,,Quantity Classification,,Text,80    ,,S_MATLWHST,QUANCLA
+,,,Putaway Quantity Classification,,Text,80    ,,S_MATLWHST,QUANCLA_PUT
+,,,Indicator: Split During Putaway,,Text,1     ,,S_MATLWHST,SPLITPUT
+,,,Indicator: Skip During Putaway,,Text,1     ,,S_MATLWHST,SKIPPTW
+,,Replenishment,Indicator: No Replenishment,,Text,1     ,,S_MATLWHST,NORPLN
+,,,Minimum Replenishment Quantity,,Number,15    ,3     ,S_MATLWHST,REPQTY
+,,,Unit of Measure for Replenishm. Quantity,,Text,80    ,,S_MATLWHST,REPQTY_UOM
+,,,Minimum Quantity,,Number,15    ,3     ,S_MATLWHST,MINQTY
+,,,Unit of Measure for Minimum Quantity,,Text,80    ,,S_MATLWHST,MINQTY_UOM
+,,,Maximum Quantity,,Number,15    ,3     ,S_MATLWHST,MAXQTY
+,,,Unit of Measure for Maximum Quantity,,Text,80    ,,S_MATLWHST,MAXQTY_UOM
+,,,Min.Qty (% of Max. Qty),,Number,5     ,2     ,S_MATLWHST,PERMXQTY
+,Distribution Chains,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MVKE,PRODUCT
+,,,Sales Organization,mandatory for sheet,Text,80    ,,S_MVKE,VKORG
+,,,Distribution Channel,mandatory for sheet,Text,80    ,,S_MVKE,VTWEG
+,,General Data,Sales Unit (ISO Format),,Text,80    ,,S_MVKE,VRKME
+,,,Delivery Plant,,Text,80    ,,S_MVKE,DWERK
+,,,Distribution-Chain-Spec. Product Status,,Text,80    ,,S_MVKE,VMSTA
+,,,Valid-From Date for Product Status,,Date,,,S_MVKE,VMSTD
+,,,Indicator: Cash Discount,,Text,1     ,,S_MVKE,SKTOF
+,,Quantity Stipulations,Minimum Delivery Quantity,,Number,13    ,3     ,S_MVKE,LFMNG
+,,,Minimum Order Quantity in Base UoM,,Number,13    ,3     ,S_MVKE,AUMNG
+,,,Delivery Unit,,Number,13    ,3     ,S_MVKE,SCMNG
+,,,Unit of Measure (ISO) of Delivery Unit,,Text,80    ,,S_MVKE,SCHME
+,,,Default Contract Term,,Number,3     ,,S_MVKE,CTR_TERM_DEF
+,,,Alternative Contract Term 1,,Number,3     ,,S_MVKE,CTR_TERM_ALT1
+,,,Alternative Contract Term 2,,Number,3     ,,S_MVKE,CTR_TERM_ALT2
+,,,Unit for Contract Term,,Text,80    ,,S_MVKE,CTR_TERM_UNIT
+,,,Default Extension Period,,Number,3     ,,S_MVKE,EXT_PERIOD_DEF
+,,,Alternative Extension Period 1,,Number,3     ,,S_MVKE,EXT_PERIOD_ALT1
+,,,Alternative Extension Period 2,,Number,3     ,,S_MVKE,EXT_PERIOD_ALT2
+,,,Unit for Extension Period,,Text,80    ,,S_MVKE,EXT_PERIOD_UNIT
+,,,Rounding Profile,,Text,80    ,,S_MVKE,RDPRF
+,,Grouping Terms - Sales,Product Pricing Group,,Text,80    ,,S_MVKE,KONDM
+,,,Volume Rebate Group,,Text,80    ,,S_MVKE,BONUS
+,,,Item Category Group,mandatory for sheet,Text,80    ,,S_MVKE,MTPOS
+,,,Account Assignment Group,,Text,80    ,,S_MVKE,KTGRM
+,,,Volume Commission Group,,Text,80    ,,S_MVKE,PROVG
+,,,Pricing Reference Product,,Text,80    ,,S_MVKE,PMATN
+,,,Product Statistics Group,,Text,80    ,,S_MVKE,VERSG
+,,Grouping Terms - Products,Product Group 1,,Text,80    ,,S_MVKE,MVGR1
+,,,Product Group 2,,Text,80    ,,S_MVKE,MVGR2
+,,,Product Group 3,,Text,80    ,,S_MVKE,MVGR3
+,,,Product Group 4,,Text,80    ,,S_MVKE,MVGR4
+,,,Product Group 5,,Text,80    ,,S_MVKE,MVGR5
+,Tax Classification,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MLAN,PRODUCT
+,,,Country/Region,mandatory for sheet,Text,80    ,,S_MLAN,ALAND
+,,Sales Tax,Tax Category 1,mandatory for sheet,Text,80    ,,S_MLAN,TATYP1
+,,,Tax Classification 1,mandatory for sheet,Text,80    ,,S_MLAN,TAXM1
+,,,Tax Category 2,,Text,80    ,,S_MLAN,TATYP2
+,,,Tax Classification 2,,Text,80    ,,S_MLAN,TAXM2
+,,,Tax Category 3,,Text,80    ,,S_MLAN,TATYP3
+,,,Tax Classification 3,,Text,80    ,,S_MLAN,TAXM3
+,,,Tax Category 4,,Text,80    ,,S_MLAN,TATYP4
+,,,Tax Classification 4,,Text,80    ,,S_MLAN,TAXM4
+,,,Tax Category 5,,Text,80    ,,S_MLAN,TATYP5
+,,,Tax Classification 5,,Text,80    ,,S_MLAN,TAXM5
+,,,Tax Category 6,,Text,80    ,,S_MLAN,TATYP6
+,,,Tax Classification 6,,Text,80    ,,S_MLAN,TAXM6
+,,,Tax Category 7,,Text,80    ,,S_MLAN,TATYP7
+,,,Tax Classification 7,,Text,80    ,,S_MLAN,TAXM7
+,,,Tax Category 8,,Text,80    ,,S_MLAN,TATYP8
+,,,Tax Classification 8,,Text,80    ,,S_MLAN,TAXM8
+,,,Tax Category 9,,Text,80    ,,S_MLAN,TATYP9
+,,,Tax Classification 9,,Text,80    ,,S_MLAN,TAXM9
+,Plant Data,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MARC,PRODUCT
+,,,Plant,mandatory for sheet,Text,80    ,,S_MARC,WERKS
+,,MRP Data,MRP Type,,Text,80    ,,S_MARC,DISMM
+,,,MRP Controller,,Text,80    ,,S_MARC,DISPO
+,,,Availability Check,,Text,80    ,,S_MARC,MTVFP
+,,General Data,Plant-Specific Product Status,,Text,80    ,,S_MARC,MMSTA
+,,,Valid From Date for Status,,Date,,,S_MARC,MMSTD
+,,,Profit Center,,Text,80    ,,S_MARC,PRCTR
+,,,Unit of Issue (ISO Format),,Text,80    ,,S_MARC,AUSME
+,,,Indicator: Batch Management Req.,,Text,1     ,,S_MARC,XCHPF
+,,,Serial Number Profile,,Text,80    ,,S_MARC,SERNP
+,,,Indicator: Neg. Stocks Allowed in Plant,,Text,1     ,,S_MARC,XMCNG
+,,,Stock Determination Group,,Text,80    ,,S_MARC,EPRIO
+,,,Loading Group,,Text,80    ,,S_MARC,LADGR
+,,,Indicator: Co-Product,,Text,1     ,,S_MARC,KZKUP
+,,,Batch Entry in Production,,Text,80    ,,S_MARC,KZECH
+,,,Indicator: Critical Part,,Text,1     ,,S_MARC,KZKRI
+,,General Data - Quality Management,Indicator: Documentation Required,,Text,1     ,,S_MARC,KZDKZ
+,,,Inspection Interval in Days,,Number,5     ,,S_MARC,PRFRQ
+,,,Quality Management Control Key,,Text,80    ,,S_MARC,SSQSS
+,,Quality Management - Procurement Data,Certificate Type,,Text,80    ,,S_MARC,QZGTP
+,,International Trade,Country/Region of Origin,,Text,80    ,,S_MARC,HERKL
+,,,Region of Origin,,Text,80    ,,S_MARC,HERKR
+,,,Taxes in International Trade,,Text,80    ,,S_MARC,STEUC
+,,,Material CFOP Category,,Text,80    ,,S_MARC,INDUS
+,,Purchasing,Purchasing Group,,Text,80    ,,S_MARC,EKGRP
+,,,Indicator: Post to Inspection Stock,,Text,1     ,,S_MARC,INSMK
+,,,Indicator: Source List Required,,Text,1     ,,S_MARC,KORDB
+,,,Indicator: Autom. Purchase Oder Allowed,,Text,1     ,,S_MARC,KAUTB
+,,,Tax Indicator,,Text,80    ,,S_MARC,TAXIM
+,,MRP Data,ABC Indicator,,Text,80    ,,S_MARC,MAABC
+,,,MRP Group,,Text,80    ,,S_MARC,DISGR
+,,,Strategy Group,,Text,80    ,,S_MARC,STRGR
+,,,Reorder Point,,Number,13    ,3     ,S_MARC,MINBE
+,,,Planning Time Fence,,Number,3     ,,S_MARC,FXHOR
+,,,Planning Cycle,,Text,80    ,,S_MARC,LFRHY
+,,,Consumption Mode,,Text,80    ,,S_MARC,VRMOD
+,,,Consumption Period: Backward,,Number,3     ,,S_MARC,VINT1
+,,,Consumption Period: Forward,,Number,3     ,,S_MARC,VINT2
+,,,Mixed MRP Indicator,,Text,80    ,,S_MARC,MISKZ
+,,,Planning Product,,Text,80    ,,S_MARC,PRGRP
+,,,Planning Plant,,Text,80    ,,S_MARC,PRWRK
+,,,Plng. Conv. Factor,,Text,10    ,,S_MARC,UMREF
+,,MRP Lot-Size Data,Lot Sizing Procedure,,Text,80    ,,S_MARC,DISLS
+,,,Minimum Lot Size,,Number,13    ,3     ,S_MARC,BSTMI
+,,,Maximum Lot Size,,Number,13    ,3     ,S_MARC,BSTMA
+,,,Fixed Lot Size,,Number,13    ,3     ,S_MARC,BSTFE
+,,,Storage Cost Indicator,,Text,80    ,,S_MARC,LAGPR
+,,,Lot Size Independant Cost,,Number,14    ,3     ,S_MARC,LOSFX
+,,,Currency for Lot Size Ind. Cost,,Text,80    ,,S_MARC,WAERS
+,,,Assembly Scrap (%),,Number,5     ,2     ,S_MARC,AUSSS
+,,,Maximum Stock Level,,Number,13    ,3     ,S_MARC,MABST
+,,,Rounding Value,,Number,13    ,3     ,S_MARC,BSTRF
+,,,Takt Time,,Number,3     ,,S_MARC,TAKZT
+,,,Rounding Profile,,Text,80    ,,S_MARC,RDPRF
+,,Net Requirement Calculation,Safety Stock,,Number,13    ,3     ,S_MARC,EISBE
+,,,Minimum Safety Stock,,Number,13    ,3     ,S_MARC,EISLO
+,,,Safety Time (in Workdays),,Number,2     ,,S_MARC,SHZET
+,,,Service Level Warehouse,,Number,3     ,1     ,S_MARC,LGRAD
+,,,Coverage Profile,,Text,80    ,,S_MARC,RWPRO
+,,,Safety Time Indicator,,Text,80    ,,S_MARC,SHFLG
+,,,Safety Time Period Profile,,Text,80    ,,S_MARC,SHPRO
+,,,MRP Relevancy for Dependent Requirements,,Text,80    ,,S_MARC,AHDIS
+,,,Safety Stock Method,,Text,80    ,,S_MARC,SFTY_STK_METH
+,,BOM Explosion/Dependent Requirements,Individual / Collective Requirements,,Text,80    ,,S_MARC,SBDKZ
+,,,Component Scrap in Percent,,Number,5     ,2     ,S_MARC,KAUSF
+,,,Requirements Group,,Text,80    ,,S_MARC,KZBED
+,,Discontinued Parts,Discontinuation Ind.,,Text,80    ,,S_MARC,KZAUS
+,,,Effective-Out Date,,Date,,,S_MARC,AUSDT
+,,,Follow-Up Product,,Text,80    ,,S_MARC,NFMAT
+,,Repetitive Manufacturing/Assembly/Deployment Strategy,Indicator: Repetitive Manufa. Allow,,Text,1     ,,S_MARC,SAUFT
+,,,Repetitive Manufacturing Profile,,Text,80    ,,S_MARC,SFEPR
+,,MRP Procurement,Procurement Type,,Text,80    ,,S_MARC,BESKZ
+,,,Special Procurement Type,,Text,80    ,,S_MARC,SOBSL
+,,,Issue Storage Location,,Text,80    ,,S_MARC,LGPRO
+,,,Replenishment Lead Time,,Number,3     ,,S_MARC,WZEIT
+,,,Cross-Project,,Text,80    ,,S_MARC,KZPSP
+,,,Default Storage Loc. for Ext. Procuremet,,Text,80    ,,S_MARC,LGFSB
+,,,Planning Calendar,,Text,80    ,,S_MARC,MRPPP
+,,,In-House Production Time,,Number,3     ,,S_MARC,DZEIT
+,,,Planned Delivery Time,,Number,3     ,,S_MARC,PLIFZ
+,,,Goods Receipt Processing Time,,Number,3     ,,S_MARC,WEBAZ
+,,,Backflush,,Text,80    ,,S_MARC,RGEKZ
+,,,Default Supply Area,,Text,80    ,,S_MARC,VSPVB
+,,,JIT Delivery Sched.,,Text,80    ,,S_MARC,FABKZ
+,,,Indicator: Bulk Material,,Text,1     ,,S_MARC,SCHGT
+,,,Scheduling Margin Key,,Text,80    ,,S_MARC,FHORI
+,,Forecasting,Period Type,,Text,80    ,,S_MARC,PERKZ
+,,,Fiscal Year Variant,,Text,80    ,,S_MARC,PERIV
+,,,Splitting Indicator,,Text,80    ,,S_MARC,AUFTL
+,,,Reference Plant for Consumption,,Text,80    ,,S_MARC,VRBWK
+,,,Reference Product for Consumption,,Text,80    ,,S_MARC,VRBMT
+,,,Use Referenced Consumption Data Until,,Date,,,S_MARC,VRBDT
+,,,Multiplier for Reference Product,,Number,4     ,2     ,S_MARC,VRBFK
+,,,Indicator: Reset Forecast Model Auto,,Text,1     ,,S_MARC,AUTRU
+,,,Indicator: Correction Factors,,Text,1     ,,S_MARC,KZKFK
+,,Work Scheduling,Base Quantity,,Number,13    ,3     ,S_MARC,BASMG
+,,,Overdelivery Tolerance Limit,,Number,3     ,1     ,S_MARC,UEETO
+,,,Underdelivery Tolerance Limit,,Number,3     ,1     ,S_MARC,UNETO
+,,,Indicator: Unlimit. Overdelivery Allowed,,Text,1     ,,S_MARC,UEETK
+,,,Production Unit (ISO Format),,Text,80    ,,S_MARC,FRTME
+,,,Production Supervisor,,Text,80    ,,S_MARC,FEVOR
+,,,Production Scheduling Profile,,Text,80    ,,S_MARC,SFCPF
+,,,Setup and Teardown Time,,Number,5     ,2     ,S_MARC,RUEZT
+,,,Interoperation Time,,Number,5     ,2     ,S_MARC,TRANZ
+,,,Processing Time,,Number,5     ,2     ,S_MARC,BEARZ
+,,Storage Locations,Cycle Counting Indicator,,Text,80    ,,S_MARC,ABCIN
+,,,Indicator: Cycle Counting Fixed,,Text,1     ,,S_MARC,CCFIX
+,,Costing 1 - General Data,Do Not Cost,,Text,80    ,,S_MARC,NCOST
+,,,Variance Key,,Text,80    ,,S_MARC,AWSLS
+,,Costing 1 - Quantity Structure Data,Costing Lot Size,,Number,13    ,3     ,S_MARC,LOSGR
+,,Storage 1 - General Data,Maximum Storage Period,,Number,5     ,,S_MARC,MAXLZ
+,,,Unit for Maximum Storage Period,,Text,80    ,,S_MARC,LZEIH
+,,Shipping Data (Times in Days),Shipping Setup Time,,Number,5     ,2     ,S_MARC,VRVEZ
+,,,Shipping Processing Time,,Number,5     ,2     ,S_MARC,VBEAZ
+,,,Base Quantity for Capacity Planning,,Number,13    ,3     ,S_MARC,VBAMG
+,,Select Views/Maintenance Status,Indicator: Storage,,Text,1     ,,S_MARC,PSTATL
+,,,Indicator: Work Scheduling,,Text,1     ,,S_MARC,PSTATA
+,,,Indicator: Purchasing,,Text,1     ,,S_MARC,PSTATE
+,,,Indicator: Quality,,Text,1     ,,S_MARC,PSTATQ
+,,,Indicator: Sales,,Text,1     ,,S_MARC,PSTATV
+,Forecasting Data,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MPOP,PRODUCT
+,,,Plant,mandatory for sheet,Text,80    ,,S_MPOP,WERKS
+,,Forecasting - General Data,Forecast Model,,Text,80    ,,S_MPOP,PRMOD
+,,Forecasting - Nr of Periods Required,Hist. Periods,,Number,3     ,,S_MPOP,PERAN
+,,,Forecast Periods,,Number,3     ,,S_MPOP,ANZPR
+,,,Periods Per Season,,Number,3     ,,S_MPOP,PERIO
+,,,Initialization Periods,,Number,3     ,,S_MPOP,PERIN
+,,,Fixed Periods,,Number,3     ,,S_MPOP,FIMON
+,,Forecasting - Control Data,Initialization,,Text,80    ,,S_MPOP,KZINI
+,,,Tracking Limit,,Number,5     ,3     ,S_MPOP,SIGGR
+,,,Model Selection,,Text,80    ,,S_MPOP,MODAW
+,,,Selection Procedure,,Text,80    ,,S_MPOP,MODAV
+,,,Indicator: Param. Optimization,,Text,1     ,,S_MPOP,KZPAR
+,,,Optimization Level,,Text,80    ,,S_MPOP,OPGRA
+,,,Weighting Group,,Text,80    ,,S_MPOP,GEWGR
+,,,Alpha Factor,,Number,3     ,2     ,S_MPOP,ALPHA
+,,,Beta Factor,,Number,3     ,2     ,S_MPOP,BETA1
+,,,Gamma Factor,,Number,3     ,2     ,S_MPOP,GAMMA
+,,,Delta Factor,,Number,3     ,2     ,S_MPOP,DELTA
+,Storage Locations,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MARD,PRODUCT
+,,,Plant,mandatory for sheet,Text,80    ,,S_MARD,WERKS
+,,,Storage Location,mandatory for sheet,Text,80    ,,S_MARD,LGORT
+,,Plant - Storage Locations,Storage Bin,,Text,10    ,,S_MARD,LGPBE
+,Production Resources Tools,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_CRFH,PRODUCT
+,,,Plant,mandatory for sheet,Text,80    ,,S_CRFH,WERKS
+,,General Data,PRT Usage,,Text,80    ,,S_CRFH,PLANV
+,,,Grouping Key 1,,Text,80    ,,S_CRFH,FGRU1
+,,,Grouping Key 2,,Text,80    ,,S_CRFH,FGRU2
+,,Task List Assignment,PRT Control Profile,,Text,80    ,,S_CRFH,STEUF
+,,,Ind: PRT Control Profile Is Referenced,,Text,1     ,,S_CRFH,STEUF_REF
+,,,Standard Text Key,,Text,80    ,,S_CRFH,KTSCH
+,,,Ind: Standard Text Key Is Referenced,,Text,1     ,,S_CRFH,KTSCH_REF
+,,,Quantity Formula,,Text,80    ,,S_CRFH,MGFORM
+,,,Ind: Quantity Formula Is Referenced,,Text,1     ,,S_CRFH,MGFORM_REF
+,,,Usage Value Formula,,Text,80    ,,S_CRFH,EWFORM
+,,,Ind: Usage Value Formula Is Referenced,,Text,1     ,,S_CRFH,EWFORM_REF
+,,,Start Date Reference,,Text,80    ,,S_CRFH,BZOFFB
+,,,Ind: Start Refer. of Usage Is Referenced,,Text,1     ,,S_CRFH,BZOFFB_REF
+,,,Offset to Start,,Number,5     ,,S_CRFH,OFFSTB
+,,,Offset to Start Unit (ISO Format),,Text,80    ,,S_CRFH,EHOFFB
+,,,Ind: Offset Start of Usage Is Referenced,,Text,1     ,,S_CRFH,OFFSTB_REF
+,,,End Date Reference,,Text,80    ,,S_CRFH,BZOFFE
+,,,Ind: End Refer. of Usage Is Referenced,,Text,1     ,,S_CRFH,BZOFFE_REF
+,,,Offset to End,,Number,5     ,,S_CRFH,OFFSTE
+,,,Offset to End Unit (ISO Format),,Text,80    ,,S_CRFH,EHOFFE
+,,,Ind: Offset End of Usage Is Referenced,,Text,1     ,,S_CRFH,OFFSTE_REF
+,Inspection Setup Data,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_QMAT,PRODUCT
+,,,Plant,mandatory for sheet,Text,80    ,,S_QMAT,WERKS
+,,,Inspection Type,mandatory for sheet,Text,30    ,,S_QMAT,ART
+,,Detailed Infomation on Inspection Type,Indicator: Preferred Inspection Type,,Text,1     ,,S_QMAT,APA
+,,,Indicator: Active,,Text,1     ,,S_QMAT,AKTIV
+,,Inspection Lot Creation,Indicator: Post to Inspection Stock,,Text,1     ,,S_QMAT,INSMK
+,,,Indicator: Serial Numbers Possible,,Text,1     ,,S_QMAT,EIN
+,,,Dynamic Modification Rule,,Text,80    ,,S_QMAT,DYNREGEL
+,,,Indicator: Skips Allowed,,Text,1     ,,S_QMAT,DYN
+,,,Inspection Lot Summary,,Text,80    ,,S_QMAT,CHG_ORIG
+,,,Control Lot Creation,,Text,80    ,,S_QMAT,CHG
+,,Inspection,Indicator: Inspection with Task List,,Text,1     ,,S_QMAT,PPL
+,,,Indicator: Inspect by Batch,,Text,1     ,,S_QMAT,TLS
+,,,Ind: Automatic Specification Assignment,,Text,1     ,,S_QMAT,APP
+,,,Indicator: Inspect Characteristics,,Text,1     ,,S_QMAT,MER
+,,Sampling,Sampling Procedure,,Text,80    ,,S_QMAT,STICHPRVER
+,,,Indicator: 100% Inspection,,Text,1     ,,S_QMAT,HPZ
+,,,Inspection Percentage,,Number,3     ,,S_QMAT,SPROZ
+,,,Indicator: Manual Sample Calculation,,Text,1     ,,S_QMAT,MST
+,,,Indicator: Manual Sample Entry,,Text,1     ,,S_QMAT,MPB
+,,Inspection Lot Completion,Average Inspection Days,,Number,3     ,,S_QMAT,MPDAU
+,,,Indicator: Automatic Usage Decision,,Text,1     ,,S_QMAT,AVE
+,,,Quality Score Procedure,,Text,80    ,,S_QMAT,QKZVERF
+,MRP Area,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MRP_AREA,PRODUCT
+,,,MRP Area,mandatory for sheet,Text,80    ,,S_MRP_AREA,BERID
+,,,Plant,mandatory for sheet,Text,80    ,,S_MRP_AREA,WERKS
+,,MRP Data,MRP Type,,Text,80    ,,S_MRP_AREA,DISMM
+,,,MRP Controller,,Text,80    ,,S_MRP_AREA,DISPO
+,,,MRP Group,,Text,80    ,,S_MRP_AREA,DISGR
+,,,Reorder Point,,Number,13    ,3     ,S_MRP_AREA,MINBE
+,,,Planning Time Fence,,Number,3     ,,S_MRP_AREA,FXHOR
+,,,Planning Cycle,,Text,80    ,,S_MRP_AREA,LFRHY
+,,Lot-Size Data,Lot Sizing Procedure,,Text,80    ,,S_MRP_AREA,DISLS
+,,,Minimum Lot Size,,Number,13    ,3     ,S_MRP_AREA,BSTMI
+,,,Maximum Lot Size,,Number,13    ,3     ,S_MRP_AREA,BSTMA
+,,,Fixed Lot Size,,Number,13    ,3     ,S_MRP_AREA,BSTFE
+,,,Storage Cost Indicator,,Text,80    ,,S_MRP_AREA,LAGPR
+,,,Lot Size Independent Cost,,Number,14    ,3     ,S_MRP_AREA,LOSFX
+,,,Currency for Lot Size Ind. Cost,,Text,80    ,,S_MRP_AREA,WAERS
+,,,Assembly Scrap (%),,Number,5     ,2     ,S_MRP_AREA,AUSSS
+,,,Maximum Stock Level,,Number,13    ,3     ,S_MRP_AREA,MABST
+,,,Rounding Value,,Number,13    ,3     ,S_MRP_AREA,BSTRF
+,,,Takt Time,,Number,3     ,,S_MRP_AREA,TAKZT
+,,,Rounding Profile,,Text,80    ,,S_MRP_AREA,RDPRF
+,,Net Requirement Calculation,Safety Stock,,Number,13    ,3     ,S_MRP_AREA,EISBE
+,,,Service Level Warehouse,,Number,3     ,1     ,S_MRP_AREA,LGRAD
+,,,Coverage Profile,,Text,80    ,,S_MRP_AREA,RWPRO
+,,,Safety Time Indicator,,Text,80    ,,S_MRP_AREA,SHFLG
+,,,Safety Time (in Workdays),,Number,2     ,,S_MRP_AREA,SHZET
+,,,Safety Time Period Profile,,Text,80    ,,S_MRP_AREA,SHPRO
+,,,MRP Relevancy for Dep. Requirements,,Text,80    ,,S_MRP_AREA,AHDIS
+,,,MRP Safety Stock Method,,Text,80    ,,S_MRP_AREA,SFTY_STK_METH
+,,Procurement,Special Procurement Type,,Text,80    ,,S_MRP_AREA,SOBSL
+,,,Default Storage Loc. for Ext. Proc.,,Text,80    ,,S_MRP_AREA,LGFSB
+,,,Planning Calendar,,Text,80    ,,S_MRP_AREA,MRPPP
+,,,Indicator: Consider Planned Deliv. Time,,Text,1     ,,S_MRP_AREA,PLIFZX
+,,,Planned Delivery Time,,Number,3     ,,S_MRP_AREA,PLIFZ
+,,,Issue Storage Location,,Text,80    ,,S_MRP_AREA,LGPRO
+,Valuation Data,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MBEW,PRODUCT
+,,,Valuation Area,mandatory for sheet,Text,80    ,,S_MBEW,BWKEY
+,,,Valuation Type,,Text,10    ,,S_MBEW,BWTAR
+,,,Valuation Category,,Text,80    ,,S_MBEW,BWTTY
+,,General Information,Price Control Determination,,Text,80    ,,S_MBEW,MLAST
+,,,Valuation Class,mandatory for sheet,Text,80    ,,S_MBEW,BKLAS
+,,,Valuation Class for Sales Order,,Text,80    ,,S_MBEW,EKLAS
+,,,Valuation Class for Project Stock,,Text,80    ,,S_MBEW,QKLAS
+,,Valuation Current Period,Price Control,mandatory for sheet,Text,80    ,,S_MBEW,VPRSV
+,,,Currency,mandatory for sheet,Text,80    ,,S_MBEW,WAERS
+,,,Inventory Price Moving Average,,Number,14    ,3     ,S_MBEW,VERPR
+,,,Inventory Price Standard Price,,Number,14    ,3     ,S_MBEW,STPRS
+,,,Price Unit,,Number,5     ,,S_MBEW,PEINH
+,,Future Price,Future Price,,Number,14    ,3     ,S_MBEW,ZKPRS
+,,,Date of Which Future Price Is Valid From,,Date,,,S_MBEW,ZKDAT
+,,Other Prices - Planned Prices,Planned Price 1,,Number,14    ,3     ,S_MBEW,ZPLP1
+,,,Planned Price Date 1,,Date,,,S_MBEW,ZPLD1
+,,,Planned Price 2,,Number,14    ,3     ,S_MBEW,ZPLP2
+,,,Planned Price Date 2,,Date,,,S_MBEW,ZPLD2
+,,,Planned Price 3,,Number,14    ,3     ,S_MBEW,ZPLP3
+,,,Planned Price Date 3,,Date,,,S_MBEW,ZPLD3
+,,Determination of Lowest Value - Tax,Tax Price 1,,Number,14    ,3     ,S_MBEW,BWPRS
+,,,Tax Price 2,,Number,14    ,3     ,S_MBEW,BWPS1
+,,,Tax Price 3,,Number,14    ,3     ,S_MBEW,VJBWS
+,,,Price Unit,,Number,5     ,,S_MBEW,BWPEI
+,,Determination of Lowest Value - Commercial,Commercial Price 1,,Number,14    ,3     ,S_MBEW,BWPRH
+,,,Commercial Price 2,,Number,14    ,3     ,S_MBEW,BWPH1
+,,,Commercial Price 3,,Number,14    ,3     ,S_MBEW,VJBWH
+,,LIFO/FIFO Relevant,LIFO/FIFO Relevant,,Text,80    ,,S_MBEW,XLIFO
+,,,Devaluation Indicator,,Number,2     ,,S_MBEW,ABWKZ
+,,Determination of CFOP Code,Usage of the Product,,Text,80    ,,S_MBEW,MTUSE
+,,,Origin of the Product,,Text,80    ,,S_MBEW,MTORG
+,,,Indicator: Produced In-House,,Text,1     ,,S_MBEW,OWPNR
+,,Costing - General Data,Product-Related Origin,,Text,80    ,,S_MBEW,HKMAT
+,,,Indicator: With Qty Structure,,Text,1     ,,S_MBEW,EKALR
+,,,Origin Group,,Text,80    ,,S_MBEW,HRKFT
+,,,Overhead Group,,Text,80    ,,S_MBEW,KOSGR
+,,Select Views/Maintenance Status,Indicator: Accounting,,Text,1     ,,S_MBEW,PSTATB
+,,,Indicator: Costing,,Text,1     ,,S_MBEW,PSTATG
+,Valuation Current Period,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MBEW_CURRENT,PRODUCT
+,,,Valuation Area,mandatory for sheet,Text,80    ,,S_MBEW_CURRENT,BWKEY
+,,,Valuation Type,,Text,10    ,,S_MBEW_CURRENT,BWTAR
+,,,Valuation Category,,Text,80    ,,S_MBEW_CURRENT,BWTTY
+,,,Currency Type,mandatory for sheet,Text,80    ,,S_MBEW_CURRENT,CURTP
+,,Current Period,Price Control,mandatory for sheet,Text,80    ,,S_MBEW_CURRENT,VPRSV
+,,,Currency,mandatory for sheet,Text,80    ,,S_MBEW_CURRENT,WAERS
+,,,Inventory Price Moving Average,,Number,14    ,3     ,S_MBEW_CURRENT,VERPR
+,,,Inventory Price Standard Price,,Number,14    ,3     ,S_MBEW_CURRENT,STPRS
+,,,Price Unit,,Number,5     ,,S_MBEW_CURRENT,PEINH
+,Valuation Future Price,,,,,,,,
+,,Key,Product Number,mandatory for sheet,Text,80    ,,S_MBEW_FUTURE,PRODUCT
+,,,Valuation Area,mandatory for sheet,Text,80    ,,S_MBEW_FUTURE,BWKEY
+,,,Valuation Type,,Text,10    ,,S_MBEW_FUTURE,BWTAR
+,,,Valuation Category,,Text,80    ,,S_MBEW_FUTURE,BWTTY
+,,,Currency Type,mandatory for sheet,Text,80    ,,S_MBEW_FUTURE,CURTP
+,,Future Price,Currency,mandatory for sheet,Text,80    ,,S_MBEW_FUTURE,WAERS
+,,,Future Price,mandatory for sheet,Number,14    ,3     ,S_MBEW_FUTURE,ZKPRS_1
+,,,Future Price From,mandatory for sheet,Date,,,S_MBEW_FUTURE,ZPRSDAT_1
+,,,Price Unit for Future Price,,Number,5     ,,S_MBEW_FUTURE,PEINH

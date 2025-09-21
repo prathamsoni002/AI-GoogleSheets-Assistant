@@ -1,0 +1,1039 @@
+{
+  "entities_by_email": {
+    "EMAIL00001": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "companies",
+        "term": "Paramo"
+      },
+      {
+        "category": "systems",
+        "term": "Sap"
+      },
+      {
+        "category": "systems",
+        "term": "S4"
+      },
+      {
+        "category": "systems",
+        "term": "Hana"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Plant Data"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Mrp Area"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Warehouse"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Migration"
+      }
+    ],
+    "EMAIL00002": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "companies",
+        "term": "Paramo"
+      },
+      {
+        "category": "systems",
+        "term": "Sap"
+      },
+      {
+        "category": "systems",
+        "term": "S4"
+      },
+      {
+        "category": "systems",
+        "term": "Hana"
+      },
+      {
+        "category": "systems",
+        "term": "Sharepoint"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Migration"
+      }
+    ],
+    "EMAIL00003": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "companies",
+        "term": "Paramo"
+      },
+      {
+        "category": "systems",
+        "term": "Sap"
+      },
+      {
+        "category": "systems",
+        "term": "S4"
+      },
+      {
+        "category": "systems",
+        "term": "Hana"
+      },
+      {
+        "category": "systems",
+        "term": "Sharepoint"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Migration"
+      }
+    ],
+    "EMAIL00004": [
+      {
+        "category": "technical_terms",
+        "term": "Plant Data"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Mrp Area"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Warehouse"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Migration"
+      }
+    ],
+    "EMAIL00005": [
+      {
+        "category": "technical_terms",
+        "term": "Plant Data"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Mrp Area"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Warehouse"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Migration"
+      }
+    ],
+    "EMAIL00006": [
+      {
+        "category": "systems",
+        "term": "Sap"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Customer"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Migration"
+      }
+    ],
+    "EMAIL00007": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Customer"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      }
+    ],
+    "EMAIL00008": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Customer"
+      }
+    ],
+    "EMAIL00009": [
+      {
+        "category": "companies",
+        "term": "Paramo"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Customer"
+      }
+    ],
+    "EMAIL00010": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Customer"
+      }
+    ],
+    "EMAIL00011": [
+      {
+        "category": "companies",
+        "term": "Paramo"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Customer"
+      }
+    ],
+    "EMAIL00012": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Customer"
+      }
+    ],
+    "EMAIL00013": [],
+    "EMAIL00014": [
+      {
+        "category": "systems",
+        "term": "Sap"
+      },
+      {
+        "category": "systems",
+        "term": "S4"
+      },
+      {
+        "category": "systems",
+        "term": "Hana"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      }
+    ],
+    "EMAIL00015": [],
+    "EMAIL00016": [],
+    "EMAIL00017": [],
+    "EMAIL00018": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "systems",
+        "term": "Sharepoint"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00019": [
+      {
+        "category": "technical_terms",
+        "term": "Plant Data"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Mrp Area"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00022": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00020": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00023": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00021": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "companies",
+        "term": "Paramo"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Migration"
+      }
+    ],
+    "EMAIL00024": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00025": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00026": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00027": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00028": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00029": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00030": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00031": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00032": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00033": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00034": [
+      {
+        "category": "companies",
+        "term": "Nikwax"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ],
+    "EMAIL00035": [
+      {
+        "category": "technical_terms",
+        "term": "Supplier"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00036": [
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00037": [
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00038": [
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00039": [
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00040": [
+      {
+        "category": "technical_terms",
+        "term": "Validation"
+      }
+    ],
+    "EMAIL00041": [
+      {
+        "category": "technical_terms",
+        "term": "Plant Data"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Warehouse"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Product Master"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Template"
+      },
+      {
+        "category": "technical_terms",
+        "term": "Upload"
+      }
+    ]
+  },
+  "entity_frequency": {
+    "Nikwax": 15,
+    "Paramo": 6,
+    "Sap": 5,
+    "S4": 4,
+    "Hana": 4,
+    "Plant Data": 5,
+    "Mrp Area": 4,
+    "Warehouse": 4,
+    "Product Master": 18,
+    "Template": 10,
+    "Migration": 7,
+    "Sharepoint": 3,
+    "Supplier": 16,
+    "Customer": 7,
+    "Upload": 10,
+    "Validation": 14
+  },
+  "technical_discussions": {
+    "EMAIL00001": {
+      "subject": "Product Master Data Migration Template - SAP S4 HANA",
+      "key_terms": [
+        "Plant Data",
+        "Mrp Area",
+        "Warehouse",
+        "Product Master",
+        "Template",
+        "Migration"
+      ],
+      "date": "2025-01-25T09:00:00.000000",
+      "sender": "Robert Chen"
+    },
+    "EMAIL00002": {
+      "subject": "RE: Product Master Data Migration Template - SAP S4 HANA",
+      "key_terms": [
+        "Product Master",
+        "Template",
+        "Migration"
+      ],
+      "date": "2025-01-25T13:00:00.000000",
+      "sender": "David Wilson"
+    },
+    "EMAIL00003": {
+      "subject": "RE: Product Master Data Migration Template - SAP S4 HANA",
+      "key_terms": [
+        "Product Master",
+        "Template",
+        "Migration"
+      ],
+      "date": "2025-01-25T15:00:00.000000",
+      "sender": "Michael Johnson"
+    },
+    "EMAIL00004": {
+      "subject": "RE: Product Master Data Migration Template - Initial Questions",
+      "key_terms": [
+        "Plant Data",
+        "Mrp Area",
+        "Warehouse",
+        "Product Master",
+        "Template",
+        "Migration"
+      ],
+      "date": "2025-01-26T12:00:00.000000",
+      "sender": "Emma Carter"
+    },
+    "EMAIL00005": {
+      "subject": "RE: Product Master Data Migration Template - Initial Questions",
+      "key_terms": [
+        "Plant Data",
+        "Mrp Area",
+        "Warehouse",
+        "Product Master",
+        "Template",
+        "Migration"
+      ],
+      "date": "2025-01-26T18:00:00.000000",
+      "sender": "Kevin Liu"
+    },
+    "EMAIL00006": {
+      "subject": "RE: Product Master Data Migration Template - Additional Questions",
+      "key_terms": [
+        "Supplier",
+        "Customer",
+        "Product Master",
+        "Template",
+        "Migration"
+      ],
+      "date": "2025-01-26T21:00:00.000000",
+      "sender": "Rachel Green"
+    },
+    "EMAIL00007": {
+      "subject": "Request for Supplier and Customer Master Data",
+      "key_terms": [
+        "Supplier",
+        "Customer",
+        "Product Master",
+        "Template"
+      ],
+      "date": "2025-01-27T11:00:00.000000",
+      "sender": "Priya Sharma"
+    },
+    "EMAIL00008": {
+      "subject": "RE: Request for Supplier and Customer Master Data - Nikwax Response",
+      "key_terms": [
+        "Supplier",
+        "Customer"
+      ],
+      "date": "2025-01-27T19:00:00.000000",
+      "sender": "Sophie Turner"
+    },
+    "EMAIL00009": {
+      "subject": "Supplier/Customer Data - Batch 2",
+      "key_terms": [
+        "Supplier",
+        "Customer"
+      ],
+      "date": "2025-01-29T03:00:00.000000",
+      "sender": "Amy Parker"
+    },
+    "EMAIL00010": {
+      "subject": "Supplier/Customer Data - Batch 2",
+      "key_terms": [
+        "Supplier",
+        "Customer"
+      ],
+      "date": "2025-01-29T11:00:00.000000",
+      "sender": "Ryan Brooks"
+    },
+    "EMAIL00011": {
+      "subject": "Supplier/Customer Data - Batch 3",
+      "key_terms": [
+        "Supplier",
+        "Customer"
+      ],
+      "date": "2025-01-30T19:00:00.000000",
+      "sender": "Amy Parker"
+    },
+    "EMAIL00012": {
+      "subject": "Supplier/Customer Data - Batch 3",
+      "key_terms": [
+        "Supplier",
+        "Customer"
+      ],
+      "date": "2025-01-31T03:00:00.000000",
+      "sender": "Ryan Brooks"
+    },
+    "EMAIL00013": {
+      "subject": "Product Number Character Length Limitation Query",
+      "key_terms": [],
+      "date": "2025-02-02T09:00:00.000000",
+      "sender": "Thomas White"
+    },
+    "EMAIL00014": {
+      "subject": "RE: Product Number Character Length Limitation Query",
+      "key_terms": [
+        "Template"
+      ],
+      "date": "2025-02-02T15:00:00.000000",
+      "sender": "Maria Rodriguez"
+    },
+    "EMAIL00018": {
+      "subject": "First Submission - Product Master Data (80% Complete)",
+      "key_terms": [
+        "Product Master",
+        "Template",
+        "Upload"
+      ],
+      "date": "2025-02-12T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00019": {
+      "subject": "Upload Validation Results - Multiple Data Issues Identified",
+      "key_terms": [
+        "Plant Data",
+        "Mrp Area",
+        "Validation",
+        "Upload"
+      ],
+      "date": "2025-02-13T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00022": {
+      "subject": "Updated File Submission - Version 4",
+      "key_terms": [
+        "Product Master",
+        "Upload"
+      ],
+      "date": "2025-02-18T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00020": {
+      "subject": "Second Validation Results - Supplier Data Mismatch Issues",
+      "key_terms": [
+        "Supplier",
+        "Product Master",
+        "Validation"
+      ],
+      "date": "2025-02-19T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00023": {
+      "subject": "Validation Results - Issues Remaining",
+      "key_terms": [
+        "Supplier",
+        "Validation"
+      ],
+      "date": "2025-02-20T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00021": {
+      "subject": "Data Migration Halt Request - Additional Time Required",
+      "key_terms": [
+        "Supplier",
+        "Product Master",
+        "Migration"
+      ],
+      "date": "2025-02-22T09:00:00.000000",
+      "sender": "Michael Johnson"
+    },
+    "EMAIL00024": {
+      "subject": "Updated File Submission - Version 4",
+      "key_terms": [
+        "Product Master",
+        "Upload"
+      ],
+      "date": "2025-02-22T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00025": {
+      "subject": "Validation Results - Issues Remaining",
+      "key_terms": [
+        "Supplier",
+        "Validation"
+      ],
+      "date": "2025-02-24T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00026": {
+      "subject": "Updated File Submission - Version 5",
+      "key_terms": [
+        "Product Master",
+        "Upload"
+      ],
+      "date": "2025-02-26T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00027": {
+      "subject": "Validation Results - Issues Remaining",
+      "key_terms": [
+        "Supplier",
+        "Validation"
+      ],
+      "date": "2025-02-28T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00028": {
+      "subject": "Updated File Submission - Version 5",
+      "key_terms": [
+        "Product Master",
+        "Upload"
+      ],
+      "date": "2025-03-02T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00029": {
+      "subject": "Validation Results - Issues Remaining",
+      "key_terms": [
+        "Supplier",
+        "Validation"
+      ],
+      "date": "2025-03-04T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00030": {
+      "subject": "Updated File Submission - Version 6",
+      "key_terms": [
+        "Product Master",
+        "Upload"
+      ],
+      "date": "2025-03-06T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00031": {
+      "subject": "Validation Results - Issues Remaining",
+      "key_terms": [
+        "Supplier",
+        "Validation"
+      ],
+      "date": "2025-03-08T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00032": {
+      "subject": "Updated File Submission - Version 6",
+      "key_terms": [
+        "Product Master",
+        "Upload"
+      ],
+      "date": "2025-03-10T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00033": {
+      "subject": "Validation Results - Issues Remaining",
+      "key_terms": [
+        "Supplier",
+        "Validation"
+      ],
+      "date": "2025-03-12T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00034": {
+      "subject": "Updated File Submission - Version 6",
+      "key_terms": [
+        "Product Master",
+        "Upload"
+      ],
+      "date": "2025-03-14T09:00:00.000000",
+      "sender": "Lisa Morgan"
+    },
+    "EMAIL00035": {
+      "subject": "Validation Results - Issues Remaining",
+      "key_terms": [
+        "Supplier",
+        "Validation"
+      ],
+      "date": "2025-03-16T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00036": {
+      "subject": "Progress Update - 91% Success Rate",
+      "key_terms": [
+        "Validation"
+      ],
+      "date": "2025-03-27T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00037": {
+      "subject": "Progress Update - 92% Success Rate",
+      "key_terms": [
+        "Validation"
+      ],
+      "date": "2025-03-28T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00038": {
+      "subject": "Progress Update - 93% Success Rate",
+      "key_terms": [
+        "Validation"
+      ],
+      "date": "2025-03-29T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00039": {
+      "subject": "Progress Update - 94% Success Rate",
+      "key_terms": [
+        "Validation"
+      ],
+      "date": "2025-03-30T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00040": {
+      "subject": "Progress Update - 95% Success Rate",
+      "key_terms": [
+        "Validation"
+      ],
+      "date": "2025-03-31T09:00:00.000000",
+      "sender": "Harry Singh"
+    },
+    "EMAIL00041": {
+      "subject": "Critical Issue: Incomplete Plant Data Affecting Warehouse Module",
+      "key_terms": [
+        "Plant Data",
+        "Warehouse",
+        "Product Master",
+        "Template",
+        "Upload"
+      ],
+      "date": "2025-04-05T09:00:00.000000",
+      "sender": "Harry Singh"
+    }
+  },
+  "company_activities": {
+    "nikwax": [
+      "EMAIL00002",
+      "EMAIL00004",
+      "EMAIL00008",
+      "EMAIL00010",
+      "EMAIL00012",
+      "EMAIL00016",
+      "EMAIL00017",
+      "EMAIL00018",
+      "EMAIL00022",
+      "EMAIL00024",
+      "EMAIL00026",
+      "EMAIL00028",
+      "EMAIL00030",
+      "EMAIL00032",
+      "EMAIL00034"
+    ],
+    "paramo": [
+      "EMAIL00003",
+      "EMAIL00006",
+      "EMAIL00009",
+      "EMAIL00011",
+      "EMAIL00013",
+      "EMAIL00021"
+    ],
+    "percipere": [
+      "EMAIL00001",
+      "EMAIL00005",
+      "EMAIL00007",
+      "EMAIL00014",
+      "EMAIL00015",
+      "EMAIL00019",
+      "EMAIL00020",
+      "EMAIL00023",
+      "EMAIL00025",
+      "EMAIL00027",
+      "EMAIL00029",
+      "EMAIL00031",
+      "EMAIL00033",
+      "EMAIL00035",
+      "EMAIL00036",
+      "EMAIL00037",
+      "EMAIL00038",
+      "EMAIL00039",
+      "EMAIL00040",
+      "EMAIL00041"
+    ]
+  }
+}

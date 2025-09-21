@@ -1,0 +1,92 @@
+AI-GoogleSheets-Assistant/
+│── .gitignore               # Ignore unnecessary files (API keys, venv, etc.)
+│── README.md                # Project overview & instructions
+│── requirements.txt         # Dependencies for the project
+│── main.py                  # Entry point to start the program
+│── .env                     # Stores my API KEYS
+│
+├── config/                  # Stores configuration & credentials
+│   ├── config.py            # API keys, Google Sheets settings, OpenAI settings
+│
+├── core/                    # Core functionality (AI + Sheets integration)
+│   ├── google_sheets.py      # Manage Google Sheets connection
+│   ├── validator.py          # Validate sheet data
+│   ├── processor.py          # Modify and process data
+│   ├── openai_api.py        # Connects to OpenAI API & processes responses
+│
+│
+├── extension/               # This is the folder deployed on google extension.
+│   ├── background.js        # Standard file for google extensions
+│   ├── content.js           # main content of the chatbot icon and chat bot screen
+│   ├── icon.png             # chatbot icon logo
+│   ├── manidest.json        # Standard file for google extensions
+│   ├── popup.html           # Standard file for google extensions, empty for now.
+│   ├── popup.js             # Standard file for google extensions, empty for now.
+│
+├── ui/                      # User interface-related files
+│   ├── chatbot.py           # Chatbot logic (text-based or GUI)
+│   
+├── utils/                   # Utility & helper functions
+│   ├── helpers.py           # Common helper functions (e.g., validation, formatting)
+│   ├── logger.py            # Logs errors & activity
+│
+└── tests/                   # For testing functionalities
+    ├── test_sheets.py       # Unit tests for Google Sheets API
+    ├── test_openai.py       # Unit tests for OpenAI interactions
+    ├── test_processor.py    # Unit tests for processing logic
+
+
+
+
+
+📌 Explanation of Each Folder & File
+1️⃣ Root Files (General Project Setup)
+File	Purpose
+.gitignore	Prevents committing API keys, virtual environments, etc.
+README.md	Explains project purpose, setup, and usage.
+requirements.txt	Lists all dependencies for easy installation.
+main.py	The main entry point, orchestrates all modules.
+2️⃣ config/ (Stores Configurations & API Keys)
+File	Purpose
+config.py	Stores API keys, authentication, and project-wide settings.
+📌 Dependencies: Used by google_sheets.py & openai_api.py to fetch API keys.
+
+3️⃣ core/ (Core Business Logic: AI + Google Sheets)
+File	Purpose
+google_sheets.py	Handles Google Sheets API calls (reading/writing data).
+openai_api.py	Manages AI interactions with OpenAI API.
+processor.py	Processes user inputs, detects errors, & calls AI logic.
+📌 Why separate processor.py?
+
+It acts as a middle layer between Google Sheets & AI, keeping things modular.
+Instead of openai_api.py making decisions, it only fetches AI responses.
+processor.py will interpret results, handle logic, and decide actions.
+4️⃣ ui/ (Manages User Interface)
+File	Purpose
+chatbot.py	Manages chatbot interaction (command-line based).
+chatbot_ui.py	GUI-based chatbot (Tkinter/PyQt) if we go visual.
+📌 Why separate UI logic?
+
+Decouples UI from core logic, so we can switch between CLI or GUI anytime.
+chatbot.py can be text-based, while chatbot_ui.py is a visual chat interface.
+5️⃣ utils/ (Helper Functions & Logging)
+File	Purpose
+helpers.py	Reusable functions (e.g., validating data, formatting responses).
+logger.py	Logs errors, user actions, and system activity for debugging.
+📌 Why a separate logger.py?
+
+Helps with debugging, tracking AI responses, and monitoring user interactions.
+6️⃣ tests/ (Unit Testing for Each Module)
+File	Purpose
+test_sheets.py	Tests Google Sheets interactions.
+test_openai.py	Tests OpenAI responses & error handling.
+test_processor.py	Tests AI-powered automation logic.
+📌 Why testing?
+
+Ensures each module works independently.
+Helps catch errors early before deployment.
+📌 Benefits of This Structure
+✅ Modular → Each module has a clear purpose, making debugging easy.
+✅ Scalable → If we expand features (e.g., different AI models), we just modify core/.
+✅ Decoupled UI → We can switch between CLI, GUI, or even a web-based chatbot later.
+✅ Easier Collaboration → Multiple people can work on different modules without conflict.

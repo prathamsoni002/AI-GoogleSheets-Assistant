@@ -1,0 +1,36 @@
+{
+  "senders": {
+    "robert.chen@percipere.co": 2,
+    "david.wilson@nikwax.co.uk": 2,
+    "michael.johnson@paramo.uk.co": 2,
+    "emma.carter@nikwax.co.uk": 1,
+    "kevin.liu@percipere.co": 1,
+    "rachel.green@paramo.uk.co": 1,
+    "priya.sharma@percipere.co": 1,
+    "sophie.turner@nikwax.co.uk": 1,
+    "amy.parker@paramo.uk.co": 2,
+    "ryan.brooks@nikwax.co.uk": 2,
+    "thomas.white@paramo.uk.co": 1,
+    "maria.rodriguez@percipere.co": 1,
+    "james.fletcher@nikwax.co.uk": 1,
+    "lisa.morgan@nikwax.co.uk": 8,
+    "harry.singh@percipere.co": 15
+  },
+  "recipients": {
+    "david.wilson@nikwax.co.uk": 12,
+    "michael.johnson@paramo.uk.co": 5,
+    "robert.chen@percipere.co": 5,
+    "kevin.liu@percipere.co": 3,
+    "priya.sharma@percipere.co": 7,
+    "emma.carter@nikwax.co.uk": 2,
+    "rachel.green@paramo.uk.co": 1,
+    "sophie.turner@nikwax.co.uk": 2,
+    "ryan.brooks@nikwax.co.uk": 2,
+    "amy.parker@paramo.uk.co": 1,
+    "chris.taylor@paramo.uk.co": 1,
+    "maria.rodriguez@percipere.co": 1,
+    "thomas.white@paramo.uk.co": 1,
+    "harry.singh@percipere.co": 8,
+    "lisa.morgan@nikwax.co.uk": 13
+  }
+}

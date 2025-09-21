@@ -1,0 +1,56 @@
+{
+  "workbook_name": "Product Master",
+  "total_emails": 41,
+  "date_range": {
+    "start": "2025-01-25T09:00:00.000000",
+    "end": "2025-04-05T09:00:00.000000"
+  },
+  "transformation_files": [
+    "business_context.json",
+    "workflow_states.json",
+    "issues_resolution.json",
+    "decisions_actions.json",
+    "conversation_threads.json",
+    "semantic_clusters.json",
+    "subjects.json",
+    "participants.json",
+    "timeline.json"
+  ],
+  "query_routing": {
+    "progress_queries": [
+      "workflow_states.json",
+      "semantic_clusters.json"
+    ],
+    "issue_queries": [
+      "issues_resolution.json",
+      "semantic_clusters.json"
+    ],
+    "decision_queries": [
+      "decisions_actions.json",
+      "conversation_threads.json"
+    ],
+    "participant_queries": [
+      "participants.json",
+      "conversation_threads.json"
+    ],
+    "timeline_queries": [
+      "timeline.json",
+      "workflow_states.json"
+    ],
+    "business_queries": [
+      "business_context.json",
+      "semantic_clusters.json"
+    ],
+    "technical_queries": [
+      "semantic_clusters.json",
+      "business_context.json"
+    ]
+  },
+  "statistics": {
+    "companies": 3,
+    "participants": 15,
+    "subjects": 27,
+    "attachments": 14,
+    "nltk_available": true
+  }
+}

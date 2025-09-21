@@ -1,0 +1,15 @@
+config/credentials.json
+.env
+_selenium/credentials.py
+_selenium/dataMigrationKeyFieldsXpath.py
+core/dataframes
+core/fetched_data
+logs
+sap_data_dictionary.csv
+__pycache__/
+*.pyc
+*credentials*.json
+*credentials*.py
+*.bak
+*.tmp
+*.swp
